@@ -1,0 +1,23 @@
+/* APORIA color study: Obsidian & Iris / proposed */
+[data-aporia-theme="dark"] {
+  --aporia-bg: #121416;
+  --aporia-surface: #1B1F23;
+  --aporia-text: #F4F1E9;
+  --aporia-muted: #B4BBC2;
+  --aporia-rule: #353B42;
+  --aporia-boundary: #747E88;
+  --aporia-reasoning: #B7A2E8;
+  --aporia-exploration: #79C5CF;
+  --aporia-event: #DDB16B;
+}
+[data-aporia-theme="light"] {
+  --aporia-bg: #F4F1E9;
+  --aporia-surface: #E9E5DB;
+  --aporia-text: #121416;
+  --aporia-muted: #596168;
+  --aporia-rule: #D1CDC3;
+  --aporia-boundary: #76736C;
+  --aporia-reasoning: #65509A;
+  --aporia-exploration: #24636C;
+  --aporia-event: #805B22;
+}

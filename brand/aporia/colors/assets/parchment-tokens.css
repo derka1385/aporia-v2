@@ -1,0 +1,23 @@
+/* APORIA color study: Ink & Parchment / proposed */
+[data-aporia-theme="dark"] {
+  --aporia-bg: #1A1715;
+  --aporia-surface: #27221E;
+  --aporia-text: #F2ECE0;
+  --aporia-muted: #BDB2A8;
+  --aporia-rule: #453A32;
+  --aporia-boundary: #928173;
+  --aporia-reasoning: #C0A5CE;
+  --aporia-exploration: #9DBFC3;
+  --aporia-event: #D7A77D;
+}
+[data-aporia-theme="light"] {
+  --aporia-bg: #F2ECE0;
+  --aporia-surface: #E6DED1;
+  --aporia-text: #1A1715;
+  --aporia-muted: #6B6058;
+  --aporia-rule: #D3C8BC;
+  --aporia-boundary: #807162;
+  --aporia-reasoning: #775782;
+  --aporia-exploration: #3E666D;
+  --aporia-event: #865634;
+}

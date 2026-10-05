@@ -1,0 +1,161 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "design-system-font",
+        "value": "sans",
+        "files": [
+          "brand/aporia/applications.html"
+        ],
+        "createdAt": "2026-10-04T10:54:15.186Z",
+        "reason": "Codex decision: isolated identity study uses the proposed Source Sans 3 family documented in brand/aporia/PROPOSAL.md section 07, rather than the current application font system."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "mono",
+        "files": [
+          "brand/aporia/applications.html"
+        ],
+        "createdAt": "2026-10-04T10:54:15.200Z",
+        "reason": "Codex decision: isolated identity study uses proposed IBM Plex Mono documented in brand/aporia/PROPOSAL.md section 07."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "display",
+        "files": [
+          "brand/aporia/applications.html"
+        ],
+        "createdAt": "2026-10-04T10:54:15.213Z",
+        "reason": "Codex decision: isolated identity study uses proposed Source Serif 4 Display documented in brand/aporia/PROPOSAL.md section 07."
+      },
+      {
+        "rule": "tight-leading",
+        "value": "*",
+        "files": [
+          "brand/aporia/applications.html"
+        ],
+        "createdAt": "2026-10-04T11:01:02.339Z",
+        "reason": "Codex decision: browser-computed ordinary text leading is at least 1.35x after explicit body and label fixes. Only 43-83px serif display headings use 1.05-1.15x, intentionally specified in the APORIA proposal. Static detector reports an unobserved 1.28x value."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "interface",
+        "files": [
+          "brand/aporia/colors/index.html"
+        ],
+        "createdAt": "2026-10-04T11:35:34.875Z",
+        "reason": "Codex decision: this isolated color study retains the existing APORIA proposal's Source Sans 3 typography; the current application DESIGN.md is not the study's type system."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "research",
+        "files": [
+          "brand/aporia/colors/index.html"
+        ],
+        "createdAt": "2026-10-04T11:35:34.949Z",
+        "reason": "Codex decision: this isolated color study retains IBM Plex Mono from the existing APORIA proposal for metadata and hex values."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "editorial",
+        "files": [
+          "brand/aporia/colors/index.html"
+        ],
+        "createdAt": "2026-10-04T11:35:35.018Z",
+        "reason": "Codex decision: this isolated color study retains Source Serif 4 Display from the existing APORIA proposal; this task explores color rather than changing typography."
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "brand/aporia/colors/index.html"
+        ],
+        "createdAt": "2026-10-04T11:35:35.090Z",
+        "reason": "Codex decision: the warm paper #F4F1E9 is an explicit existing APORIA palette value, deliberately compared against cooler #EDF2F1 and warmer #F2ECE0 alternatives. It is a named color choice in this isolated study rather than an incidental generic surface."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "source sans",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:27:20.038Z",
+        "reason": "Agent-scoped brand-film exception: this isolated video player uses the existing Source Sans 3 identity documented in brand/aporia/tokens.json and brand/aporia/README.md."
+      },
+      {
+        "rule": "design-system-font",
+        "value": "source serif",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:27:20.113Z",
+        "reason": "Agent-scoped brand-film exception: this isolated video player uses the existing Source Serif 4 identity documented in brand/aporia/tokens.json and brand/aporia/README.md."
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(18, 20, 22)",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:27.786Z",
+        "reason": "Agent-scoped brand-film exception: the isolated video player preserves the original APORIA brand tokens from brand/aporia/tokens.json."
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(180, 187, 194)",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:27.887Z",
+        "reason": "Agent-scoped brand-film exception: the isolated video player preserves the original APORIA brand tokens from brand/aporia/tokens.json."
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(244, 241, 233)",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:27.959Z",
+        "reason": "Agent-scoped brand-film exception: the isolated video player preserves the original APORIA brand tokens from brand/aporia/tokens.json."
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(53, 59, 66)",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:28.028Z",
+        "reason": "Agent-scoped brand-film exception: the isolated video player preserves the original APORIA brand tokens from brand/aporia/tokens.json."
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(121, 197, 207)",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:28.096Z",
+        "reason": "Agent-scoped brand-film exception: the isolated video player preserves the original APORIA brand tokens from brand/aporia/tokens.json."
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "14px",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:28.166Z",
+        "reason": "Agent-scoped readable-player exception: metadata and download links use comfortable sizes consistent with the existing APORIA brand book. Scope is this player only."
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "15px",
+        "files": [
+          "brand/aporia/video/index.html"
+        ],
+        "createdAt": "2026-10-04T12:30:28.308Z",
+        "reason": "Agent-scoped readable-player exception: metadata and download links use comfortable sizes consistent with the existing APORIA brand book. Scope is this player only."
+      }
+    ]
+  }
+}

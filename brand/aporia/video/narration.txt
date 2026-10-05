@@ -1,0 +1,15 @@
+For philosophy students, the hardest question is often what to write next.
+
+A convincing AI answer can miss a hidden premise, or repeat an old objection.
+
+Meet Aporia. An experimental AI lab for philosophical research.
+
+It reads the literature, rebuilds arguments from source quotes, and brings hidden assumptions into view.
+
+Five cognitive profiles investigate the same question. Delta changes their actual reasoning policies, opening different paths.
+
+Objections face a prior-art check and two independent defenders. A referee labels the outcome and verifies citations.
+
+The Director learns what to test next. Surviving leads become ranked briefs, with the strongest replies and what your paper must show.
+
+Aporia. Your next research direction. The final judgment stays yours.

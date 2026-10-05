@@ -1,0 +1,17 @@
+{
+  "source": "/Users/petrinolann/Movies/team presentation .mov",
+  "output": "/Users/petrinolann/Documents/ChatGPT/aproria/brand/aporia/video/team/APORIA-Team-Branding-Draft-59.96s-1080p.mp4",
+  "status": "awaiting confirmed names",
+  "fps": 24,
+  "frames": 1439,
+  "duration_seconds": 59.958333333333336,
+  "team": null,
+  "cuts_seconds": [
+    16.5416666667,
+    34.5,
+    49.2916666667
+  ],
+  "identity": "Existing APORIA / Divergent Apertures masters; Obsidian & Iris; Source fonts",
+  "audio": "Original source sound, no added music or synthetic voice",
+  "edit": "Original cuts preserved; final video frame omitted to remain below 60 seconds"
+}

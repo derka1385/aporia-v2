@@ -1,0 +1,1940 @@
+{
+  "package.json": {
+    "mtime": 1791193569.9034743,
+    "seen": 1791199225.505451,
+    "ast_hash": "3d96006ae22fdd929486988a95e16cf0",
+    "semantic_hash": ""
+  },
+  "scripts/experiment.mjs": {
+    "mtime": 1791078512.0606208,
+    "seen": 1791117955.179469,
+    "ast_hash": "eb17907eebd20e73d5b704025197abd1",
+    "semantic_hash": ""
+  },
+  "scripts/start.mjs": {
+    "mtime": 1791077710.168771,
+    "seen": 1791078106.626246,
+    "ast_hash": "a3a7d4eb301b9acfb05d4b8de5f8c06e",
+    "semantic_hash": ""
+  },
+  "server/engine.mjs": {
+    "mtime": 1791192501.3882606,
+    "seen": 1791199225.505514,
+    "ast_hash": "e1dfa90d06b38f4bf54aa81ce337d43c",
+    "semantic_hash": ""
+  },
+  "server/index.mjs": {
+    "mtime": 1791198916.7960842,
+    "seen": 1791199225.505515,
+    "ast_hash": "eef7cdbf21b4381d52c2647ed90c679b",
+    "semantic_hash": ""
+  },
+  "server/policies.mjs": {
+    "mtime": 1791124401.4205692,
+    "seen": 1791188930.829367,
+    "ast_hash": "dc7104a82da68696dcac0632b71af4c9",
+    "semantic_hash": ""
+  },
+  "server/provider.mjs": {
+    "mtime": 1791169667.910419,
+    "seen": 1791188930.829368,
+    "ast_hash": "ac3738887c64500b50ce1174490df6e9",
+    "semantic_hash": ""
+  },
+  "server/store.mjs": {
+    "mtime": 1791150943.9556482,
+    "seen": 1791188930.829369,
+    "ast_hash": "6d68431a22996caed171b509c4ff1fa5",
+    "semantic_hash": ""
+  },
+  "server/tools.mjs": {
+    "mtime": 1791124596.3564706,
+    "seen": 1791188930.829369,
+    "ast_hash": "7cdb05c302cec794eeb51e41f290d50e",
+    "semantic_hash": ""
+  },
+  "src/App.jsx": {
+    "mtime": 1791198571.7191656,
+    "seen": 1791199225.5055208,
+    "ast_hash": "9016bd129ba0aaf2c1c14d267386eefc",
+    "semantic_hash": ""
+  },
+  "src/ArgumentGraph.jsx": {
+    "mtime": 1791077876.3425276,
+    "seen": 1791078106.626256,
+    "ast_hash": "0be09609416e8cd93923e39a669724d0",
+    "semantic_hash": ""
+  },
+  "src/Intelligence.jsx": {
+    "mtime": 1791169470.3910747,
+    "seen": 1791188930.82937,
+    "ast_hash": "b7e8b549f39b4e22e6a45c6222f14f84",
+    "semantic_hash": ""
+  },
+  "src/Laboratory.jsx": {
+    "mtime": 1791169364.6873884,
+    "seen": 1791188930.829371,
+    "ast_hash": "82ebf6810e54cdb7259aa42405b8ff2a",
+    "semantic_hash": ""
+  },
+  "src/main.jsx": {
+    "mtime": 1791123308.1016185,
+    "seen": 1791123739.623725,
+    "ast_hash": "241df4d2a58da78816d4d2364328a8db",
+    "semantic_hash": ""
+  },
+  "tests/engine.test.mjs": {
+    "mtime": 1791193770.3471742,
+    "seen": 1791199225.505528,
+    "ast_hash": "06f9180d4e21d026078536e65877b0ff",
+    "semantic_hash": ""
+  },
+  "vite.config.js": {
+    "mtime": 1791077480.8579936,
+    "seen": 1791078106.626268,
+    "ast_hash": "e43ffa089c4482088d82a9d1d4f011ee",
+    "semantic_hash": ""
+  },
+  ".impeccable/direction.md": {
+    "mtime": 1791079215.1175978,
+    "seen": 1791117955.1794791,
+    "ast_hash": "0a3590ea4d261c113dfdd7fdd222f2d5",
+    "semantic_hash": ""
+  },
+  "ARCHITECTURE.md": {
+    "mtime": 1791199191.9491951,
+    "seen": 1791199225.505535,
+    "ast_hash": "6929f4465962de13a2d99e6e60d88a05",
+    "semantic_hash": ""
+  },
+  "PRODUCT.md": {
+    "mtime": 1791199156.6132228,
+    "seen": 1791199225.505538,
+    "ast_hash": "cb98d321970a0c64fd097ea649897369",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1791123308.182686,
+    "seen": 1791123739.623743,
+    "ast_hash": "2a6fe765d9afe50495fce88f1e0f3ea9",
+    "semantic_hash": ""
+  },
+  ".impeccable/config.json": {
+    "mtime": 1791117028.3085086,
+    "seen": 1791117955.179449,
+    "ast_hash": "ade088a374af691d5c3c2c7cd2d9038d",
+    "semantic_hash": ""
+  },
+  ".impeccable/design.json": {
+    "mtime": 1791189022.8068712,
+    "seen": 1791199225.505344,
+    "ast_hash": "61781026c2e50d0122d515cdce5031da",
+    "semantic_hash": ""
+  },
+  "brand/aporia/VERIFICATION.json": {
+    "mtime": 1791111669.1250937,
+    "seen": 1791117955.179457,
+    "ast_hash": "3e26419945f82116729d7ba543b13d44",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/VERIFICATION.json": {
+    "mtime": 1791113859.2199616,
+    "seen": 1791117955.1794581,
+    "ast_hash": "405f3012a8f69ebf3fe8b8ec306a0f34",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/build.py": {
+    "mtime": 1791113786.221552,
+    "seen": 1791117955.1794581,
+    "ast_hash": "99be648c9962c0ba455aa4ce895868ab",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/contrast.json": {
+    "mtime": 1791113786.3095005,
+    "seen": 1791117955.179459,
+    "ast_hash": "aff6264f4bce23a9726ee1a296739875",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/palettes.json": {
+    "mtime": 1791113786.3090591,
+    "seen": 1791117955.179459,
+    "ast_hash": "b02b041c6ad9b1f97d32e3771f45494f",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/render.mjs": {
+    "mtime": 1791113851.8324027,
+    "seen": 1791117955.179459,
+    "ast_hash": "13ca9780ad4e3b0ca2421ca180cb5f0e",
+    "semantic_hash": ""
+  },
+  "brand/aporia/source/build.py": {
+    "mtime": 1791111448.9020648,
+    "seen": 1791117955.17946,
+    "ast_hash": "d0eeb1825c609306fea5d2e825074248",
+    "semantic_hash": ""
+  },
+  "brand/aporia/source/render.mjs": {
+    "mtime": 1791111662.4746568,
+    "seen": 1791117955.17946,
+    "ast_hash": "a8b3bb338ce00fd2e0fd0a70a7363eaa",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/build.py": {
+    "mtime": 1791112927.0372648,
+    "seen": 1791117955.179461,
+    "ast_hash": "46c4e0352d3594ff9a2149e867719fef",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/verification.json": {
+    "mtime": 1791112825.6837504,
+    "seen": 1791117955.179461,
+    "ast_hash": "a9676d05cfa5b40ab964615350ee12e4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/audio-verification.json": {
+    "mtime": 1791117003.5119004,
+    "seen": 1791117955.179461,
+    "ast_hash": "88015c0850221fcb34cce768d51a5692",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/layout-verification.json": {
+    "mtime": 1791116840.7846055,
+    "seen": 1791117955.179462,
+    "ast_hash": "ad74ab0db51125fb16fc808cdd1e8b75",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/no-voice-verification.json": {
+    "mtime": 1791117749.8826368,
+    "seen": 1791117955.179462,
+    "ast_hash": "73a4f8690c7750e75bd51662ec4cb60b",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/player-verification.json": {
+    "mtime": 1791117657.1105661,
+    "seen": 1791117955.179463,
+    "ast_hash": "d767e8a0632f56515e0b585290fd4e31",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/video-verification.json": {
+    "mtime": 1791117624.1566496,
+    "seen": 1791117955.179463,
+    "ast_hash": "360a8154f9bcbe174852868858083e2f",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/source/build.py": {
+    "mtime": 1791117724.4910092,
+    "seen": 1791117955.179463,
+    "ast_hash": "5fcb1f6e15d6c6b865cb800809b478b8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/source/render-assets.mjs": {
+    "mtime": 1791116450.934265,
+    "seen": 1791117955.1794639,
+    "ast_hash": "ce896301242b22c72489c88159e231b9",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/source/serve.py": {
+    "mtime": 1791117118.4600124,
+    "seen": 1791117955.1794639,
+    "ast_hash": "059bd4dd51c34ea2207fcc59b6be8fd8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/source/timeline.json": {
+    "mtime": 1791116450.914271,
+    "seen": 1791117955.179465,
+    "ast_hash": "4db1be5620a47ed0ce4d82745d282134",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/source/verify-player.mjs": {
+    "mtime": 1791117118.4917803,
+    "seen": 1791117955.179465,
+    "ast_hash": "2195c6a1ca39cda9ce6ddf6b264d9dee",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/source/verify.py": {
+    "mtime": 1791117001.177348,
+    "seen": 1791117955.179465,
+    "ast_hash": "28c0ebf3e851feaae1e921026ddef7c3",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/build.py": {
+    "mtime": 1791117933.3284936,
+    "seen": 1791117955.179466,
+    "ast_hash": "58466de760208d8c0644a425b378ffab",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/edit.json": {
+    "mtime": 1791117951.0604508,
+    "seen": 1791117955.179467,
+    "ast_hash": "913f3184099f6580618852c2d7428eb3",
+    "semantic_hash": ""
+  },
+  "scripts/model-check.mjs": {
+    "mtime": 1791078911.0218236,
+    "seen": 1791117955.179469,
+    "ast_hash": "25ff806bcfdc517e989aeac254c1dca2",
+    "semantic_hash": ""
+  },
+  "tests/provider.test.mjs": {
+    "mtime": 1791124618.6971228,
+    "seen": 1791188930.8293738,
+    "ast_hash": "66b0f1a7aa09a8d4a86eb884a32d52dd",
+    "semantic_hash": ""
+  },
+  "DESIGN.md": {
+    "mtime": 1791199156.6558032,
+    "seen": 1791199225.505536,
+    "ast_hash": "04fb351dea5f4c55c36e27a06e36cd5c",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1791199191.940407,
+    "seen": 1791199225.5055392,
+    "ast_hash": "6111ccef8611f0d15544149074f04848",
+    "semantic_hash": ""
+  },
+  "brand/aporia/CONTRAST.md": {
+    "mtime": 1791111452.312684,
+    "seen": 1791117955.1794822,
+    "ast_hash": "5615c1a42e8ee0dcb805215aa0962d10",
+    "semantic_hash": ""
+  },
+  "brand/aporia/DECISIONS.md": {
+    "mtime": 1791123736.962697,
+    "seen": 1791123739.623731,
+    "ast_hash": "a03d82b31699fc5383cb175d4a6b7c99",
+    "semantic_hash": ""
+  },
+  "brand/aporia/PROPOSAL.md": {
+    "mtime": 1791110869.9375415,
+    "seen": 1791117955.1794822,
+    "ast_hash": "759d09093ef822602f80c77c1b887f43",
+    "semantic_hash": ""
+  },
+  "brand/aporia/README.md": {
+    "mtime": 1791111662.4048722,
+    "seen": 1791117955.179483,
+    "ast_hash": "cf52ac4db44c2e0eeb4ea178980ea44f",
+    "semantic_hash": ""
+  },
+  "brand/aporia/applications.html": {
+    "mtime": 1791111590.8847804,
+    "seen": 1791117955.179483,
+    "ast_hash": "356cc686191a2b291c9e28f1abdc0ce8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/fonts/IBMPlex-LICENSE.txt": {
+    "mtime": 1791110672.3608465,
+    "seen": 1791117955.179483,
+    "ast_hash": "4d4949dda4b23922e334f0cbf6179065",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/fonts/SourceSans-LICENSE.md": {
+    "mtime": 1791110671.7198124,
+    "seen": 1791117955.179484,
+    "ast_hash": "cae8bae09d031359d6a27f9255395ca4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/fonts/SourceSerif-LICENSE.md": {
+    "mtime": 1791110671.4926958,
+    "seen": 1791117955.179484,
+    "ast_hash": "32f66d18777ee4f28b4ef87d628b9f4d",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/CONTRAST.md": {
+    "mtime": 1791113786.321193,
+    "seen": 1791117955.1794848,
+    "ast_hash": "3eedd4a4604482e7a07db3912f81d785",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/README.md": {
+    "mtime": 1791113786.3228729,
+    "seen": 1791117955.1794848,
+    "ast_hash": "00decc688e0829ccb210bcb8f052903c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/VERIFICATION.md": {
+    "mtime": 1791113851.9381225,
+    "seen": 1791117955.1794848,
+    "ast_hash": "d544d9043ae36b215691403632cb84d0",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/index.html": {
+    "mtime": 1791113786.3206677,
+    "seen": 1791117955.179486,
+    "ast_hash": "bc78bec8da441406f62d353fbcb1676a",
+    "semantic_hash": ""
+  },
+  "brand/aporia/index.html": {
+    "mtime": 1791111452.3151884,
+    "seen": 1791117955.179486,
+    "ast_hash": "c4348d6b010e339d8db238c7ef627a3f",
+    "semantic_hash": ""
+  },
+  "brand/aporia/overview.html": {
+    "mtime": 1791111452.3129876,
+    "seen": 1791117955.179487,
+    "ast_hash": "4859213dfa2d24565e50688314d2c206",
+    "semantic_hash": ""
+  },
+  "brand/aporia/source/requirements.txt": {
+    "mtime": 1791111452.528622,
+    "seen": 1791117955.179487,
+    "ast_hash": "935ab821227b00b43e4c16b7298f5f23",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/index.html": {
+    "mtime": 1791112927.532619,
+    "seen": 1791117955.179487,
+    "ast_hash": "a4b88700803c54a99af1b0028222284b",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/APORIA-speaking-script.md": {
+    "mtime": 1791117724.5094814,
+    "seen": 1791117955.179488,
+    "ast_hash": "5b44a00d3fc2c9b5f5b8643a103627ca",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/README.md": {
+    "mtime": 1791117724.528569,
+    "seen": 1791117955.179488,
+    "ast_hash": "abb1a627fc6932de5cf2511f5a50ced6",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/SourceSans-LICENSE.md": {
+    "mtime": 1791117001.0637937,
+    "seen": 1791117955.1794891,
+    "ast_hash": "cae8bae09d031359d6a27f9255395ca4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/SourceSerif-LICENSE.md": {
+    "mtime": 1791117001.0634778,
+    "seen": 1791117955.1794891,
+    "ast_hash": "32f66d18777ee4f28b4ef87d628b9f4d",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/index.html": {
+    "mtime": 1791117001.129612,
+    "seen": 1791117955.1794891,
+    "ast_hash": "065427aa1a457a289964df8daffe94d0",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/narration.txt": {
+    "mtime": 1791117003.5120502,
+    "seen": 1791117955.17949,
+    "ast_hash": "cfd6e7e69242185eae3f98ce2f892dad",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/filter.txt": {
+    "mtime": 1791117933.4690728,
+    "seen": 1791117955.17949,
+    "ast_hash": "5b595cfb9a8911f90f1a062a2b2f531c",
+    "semantic_hash": ""
+  },
+  "graphify-out/memory/query_20261004_105732_42b97499_which_existing_aporia_components_should_inform_the.md": {
+    "mtime": 1791111452.3954961,
+    "seen": 1791117955.17949,
+    "ast_hash": "6e3beab09f581255c55a864c1ff907b8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/app-icon-1024.png": {
+    "mtime": 1791111668.1503484,
+    "seen": 1791117955.179491,
+    "ast_hash": "9ca31e352dd129e0f456b1069b80372d",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/app-icon-192.png": {
+    "mtime": 1791111668.0539978,
+    "seen": 1791117955.179492,
+    "ast_hash": "be58649d1ac18146a97394f23c946e0c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/app-icon-512.png": {
+    "mtime": 1791111668.0859694,
+    "seen": 1791117955.179492,
+    "ast_hash": "e02e5ca0ffa91dfb266d944d73ef3622",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/app-icon.svg": {
+    "mtime": 1791111452.1102264,
+    "seen": 1791117955.179492,
+    "ast_hash": "60517ca633382c6ec6399ca264e6f98a",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-01-shared-aperture.svg": {
+    "mtime": 1791111452.1029632,
+    "seen": 1791117955.1794932,
+    "ast_hash": "fb8d65378ac2394ef01324dfc2be54fa",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-02-divergent-apertures.svg": {
+    "mtime": 1791111452.1030638,
+    "seen": 1791117955.1794932,
+    "ast_hash": "0c4a54929637eca91d2a8c593454a44f",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-03-displaced-orbits.svg": {
+    "mtime": 1791111452.1031492,
+    "seen": 1791117955.179494,
+    "ast_hash": "8b12789b6a85c9b0147b948d6ca3bdf8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-04-counter-orbits.svg": {
+    "mtime": 1791111452.1032298,
+    "seen": 1791117955.179494,
+    "ast_hash": "67892f6de37f90533954a78399427300",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-05-forked-trajectory.svg": {
+    "mtime": 1791111452.1033037,
+    "seen": 1791117955.179494,
+    "ast_hash": "f83a8788c3bba4592d295420715dd9d8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-06-segmented-inquiry.svg": {
+    "mtime": 1791111452.1033792,
+    "seen": 1791117955.1794949,
+    "ast_hash": "a3b5e3d58318a4e5af17757955c49913",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-07-common-tangent.svg": {
+    "mtime": 1791111452.1034458,
+    "seen": 1791117955.1794949,
+    "ast_hash": "4627c62aafa2b66bd8dfa0cc8fa300bb",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-08-delta-cut.svg": {
+    "mtime": 1791111452.1035142,
+    "seen": 1791117955.179496,
+    "ast_hash": "cd4ed8304f6bcc5175626bc2ec9caa14",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-09-discrete-field.svg": {
+    "mtime": 1791111452.1036062,
+    "seen": 1791117955.179496,
+    "ast_hash": "4aa8e6820f51e6df9a8435b494922869",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/concept-10-return-trace.svg": {
+    "mtime": 1791111452.1039152,
+    "seen": 1791117955.179497,
+    "ast_hash": "2a828c5c44e5a1f88b38292ba19dbd32",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-16.png": {
+    "mtime": 1791111667.9349759,
+    "seen": 1791117955.179497,
+    "ast_hash": "934ed5430901b315a946a693d4793b6a",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-16.svg": {
+    "mtime": 1791111452.110291,
+    "seen": 1791117955.179498,
+    "ast_hash": "4a1d564703ddb15ea2f59b29d48e9ada",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-32.png": {
+    "mtime": 1791111667.9832475,
+    "seen": 1791117955.179498,
+    "ast_hash": "4f64825b57efd651e4879050e0c00bb6",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-32.svg": {
+    "mtime": 1791111452.110363,
+    "seen": 1791117955.179499,
+    "ast_hash": "ecb9137c4ceb4d278286918be38437c4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-48.png": {
+    "mtime": 1791111668.001307,
+    "seen": 1791117955.179499,
+    "ast_hash": "cfa8896d052c275ed50c725fc6bdff20",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-48.svg": {
+    "mtime": 1791111452.1104283,
+    "seen": 1791117955.179499,
+    "ast_hash": "4df63c34d10f1b0fa77f52e1e3010595",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/favicon-adaptive.svg": {
+    "mtime": 1791111452.1105096,
+    "seen": 1791117955.1795,
+    "ast_hash": "b06a0d4db43f70f53e6a025ec8a77250",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/lockup-horizontal-dark.svg": {
+    "mtime": 1791111452.107341,
+    "seen": 1791117955.1795,
+    "ast_hash": "d54abee7b25a644ea171b5415281c2d8",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/lockup-horizontal-light.svg": {
+    "mtime": 1791111452.1093123,
+    "seen": 1791117955.179501,
+    "ast_hash": "d92dea9b7fc9fde18c2957bb4a5eea2c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/lockup-stacked-dark.svg": {
+    "mtime": 1791111452.1078274,
+    "seen": 1791117955.179501,
+    "ast_hash": "715542a2c0d409442891da6bb39817a2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/lockup-stacked-light.svg": {
+    "mtime": 1791111452.1097488,
+    "seen": 1791117955.179501,
+    "ast_hash": "1fa426a7288e84e1fe808c86233f72bb",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/symbol-dark.svg": {
+    "mtime": 1791111452.1040015,
+    "seen": 1791117955.179502,
+    "ast_hash": "f5ac62f3463651e18325976f6187b33a",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/symbol-light.svg": {
+    "mtime": 1791111452.1085665,
+    "seen": 1791117955.179502,
+    "ast_hash": "349bd3e6fe675a46963e5fc6fa930e5d",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/symbol-micro-dark.svg": {
+    "mtime": 1791111452.10408,
+    "seen": 1791117955.179502,
+    "ast_hash": "569c5ad0320c9737df9d7e44002dfa29",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/symbol-micro-light.svg": {
+    "mtime": 1791111452.108812,
+    "seen": 1791117955.1795032,
+    "ast_hash": "9c5816b1d1a96113aecd8fa6db16dc9b",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/wordmark-dark.svg": {
+    "mtime": 1791111452.1084464,
+    "seen": 1791117955.1795032,
+    "ast_hash": "a869287a31563d88fc729418a99b5d92",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/logos/wordmark-light.svg": {
+    "mtime": 1791111452.1101596,
+    "seen": 1791117955.1795042,
+    "ast_hash": "81c6ae17c3a2c191413759d5f78fb304",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/book-mobile.png": {
+    "mtime": 1791111669.0381615,
+    "seen": 1791117955.1795042,
+    "ast_hash": "21bd9b355b3f1cae11acf100f199bbd3",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/book-opening.png": {
+    "mtime": 1791111668.4451265,
+    "seen": 1791117955.1795042,
+    "ast_hash": "edd21f1f31097864c28d96aaa3de93f4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/brand-overview.png": {
+    "mtime": 1791111667.4132338,
+    "seen": 1791117955.1795049,
+    "ast_hash": "bcd35f2c43db007ecbf05e9011f59860",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/dashboard-study.png": {
+    "mtime": 1791111667.7023442,
+    "seen": 1791117955.1795049,
+    "ast_hash": "b0a79bae2c259a4f2d14be5567b4562b",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/logo-chapter.png": {
+    "mtime": 1791111668.6882524,
+    "seen": 1791117955.1795058,
+    "ast_hash": "4050e81ed82c8a9e4141959d5243e1d2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/logo-contact-sheet.png": {
+    "mtime": 1791111668.2390697,
+    "seen": 1791117955.1795058,
+    "ast_hash": "010b07e56edb39cf8730904dfcfe13cd",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/logo-contact-sheet.svg": {
+    "mtime": 1791111452.1532998,
+    "seen": 1791117955.1795058,
+    "ast_hash": "2f89633b38bad9ac1ee0e47b9b0e6a00",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/particle-concentration.svg": {
+    "mtime": 1791111452.2042644,
+    "seen": 1791117955.179507,
+    "ast_hash": "a5ae1c5364a5de4ab568894b449f34b2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/particle-conflict.svg": {
+    "mtime": 1791111452.2319274,
+    "seen": 1791117955.179507,
+    "ast_hash": "53ad8d4041b01d5f7d37bae3fe2982fd",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/particle-exploration.svg": {
+    "mtime": 1791111452.1791177,
+    "seen": 1791117955.179507,
+    "ast_hash": "0248f49c71801607d907910a2cde22d6",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/particle-insight.svg": {
+    "mtime": 1791111452.2876148,
+    "seen": 1791117955.179508,
+    "ast_hash": "c89c65d000bbcc0187962e59339ca002",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/particle-rejection.svg": {
+    "mtime": 1791111452.3121903,
+    "seen": 1791117955.179508,
+    "ast_hash": "8329f7f896b52a03fa8ec5b145fbdc63",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/particle-uncertainty.svg": {
+    "mtime": 1791111452.2622945,
+    "seen": 1791117955.179508,
+    "ast_hash": "0dc63432590004aa029002d902ad02d9",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/presentation-study.png": {
+    "mtime": 1791111667.7739432,
+    "seen": 1791117955.179509,
+    "ast_hash": "151324d75642b644cb69977fb65f676c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/assets/visuals/website-study.png": {
+    "mtime": 1791111667.6202633,
+    "seen": 1791117955.179509,
+    "ast_hash": "46a53fcc21d03b9271fc944ea5bf38aa",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/mobile-opening.png": {
+    "mtime": 1791113859.1357741,
+    "seen": 1791117955.17951,
+    "ast_hash": "abfc36288ce6b96ecf60e801c424a70c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/mobile-preview.png": {
+    "mtime": 1791113859.2094212,
+    "seen": 1791117955.17951,
+    "ast_hash": "01b125b36e4862867f5b2b5db741b186",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/particle-mineral.svg": {
+    "mtime": 1791113786.3158545,
+    "seen": 1791117955.17951,
+    "ast_hash": "f5218320b968b32fac941b7ef77c7104",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/particle-obsidian.svg": {
+    "mtime": 1791113786.3142872,
+    "seen": 1791117955.179511,
+    "ast_hash": "aecbea66cd6bb912e2a418caf567c014",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/particle-parchment.svg": {
+    "mtime": 1791113786.317933,
+    "seen": 1791117955.179511,
+    "ast_hash": "2b1fa03d941032662494f1bf611148ca",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/preview-mineral-dark.png": {
+    "mtime": 1791113857.6678178,
+    "seen": 1791117955.179511,
+    "ast_hash": "322ade8a2e83bf297136f2aa333e2391",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/preview-mineral-light.png": {
+    "mtime": 1791113857.8668792,
+    "seen": 1791117955.179512,
+    "ast_hash": "709fea006346016cf181541c9510e708",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/preview-obsidian-dark.png": {
+    "mtime": 1791113857.2175188,
+    "seen": 1791117955.179512,
+    "ast_hash": "78eddada61e9170ed86bd862aab40066",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/preview-obsidian-light.png": {
+    "mtime": 1791113857.434163,
+    "seen": 1791117955.179513,
+    "ast_hash": "c9a597ddba84b0631a095865e90be8d7",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/preview-parchment-dark.png": {
+    "mtime": 1791113858.1503265,
+    "seen": 1791117955.179513,
+    "ast_hash": "96dd4abf89cb390285cf956718f836dd",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/assets/preview-parchment-light.png": {
+    "mtime": 1791113858.3503826,
+    "seen": 1791117955.179513,
+    "ast_hash": "66dd4f86d7e3d24265339ee6105a8149",
+    "semantic_hash": ""
+  },
+  "brand/aporia/colors/comparison.png": {
+    "mtime": 1791113856.9513745,
+    "seen": 1791117955.1795142,
+    "ast_hash": "7f90942a7dd2f76165fac459980da70b",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/reference-retenue.svg": {
+    "mtime": 1791112927.326588,
+    "seen": 1791117955.1795142,
+    "ast_hash": "9a8c5e837d26dafd0ca5cd1076680cf2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-01-dark.svg": {
+    "mtime": 1791112927.3248773,
+    "seen": 1791117955.1795142,
+    "ast_hash": "fb0bfc14165c24de505f64634d400727",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-01-light.svg": {
+    "mtime": 1791112927.3250732,
+    "seen": 1791117955.179515,
+    "ast_hash": "d3fe30598b022ce7acfc179cc0e31b05",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-02-dark.svg": {
+    "mtime": 1791112927.3251824,
+    "seen": 1791117955.179515,
+    "ast_hash": "707f40ac87c0c1411192e68019a473df",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-02-light.svg": {
+    "mtime": 1791112927.3254907,
+    "seen": 1791117955.1795158,
+    "ast_hash": "c47378e2be9569038c5a4d9b09387009",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-03-dark.svg": {
+    "mtime": 1791112927.3257184,
+    "seen": 1791117955.1795158,
+    "ast_hash": "689265845caff18530402ca03d74e466",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-03-light.svg": {
+    "mtime": 1791112927.3258486,
+    "seen": 1791117955.1795158,
+    "ast_hash": "36cb37cb45def58c8a369cf6dd511906",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-04-dark.svg": {
+    "mtime": 1791112927.325974,
+    "seen": 1791117955.179517,
+    "ast_hash": "9f97a1640644062b939a28cdb9ec9296",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-04-light.svg": {
+    "mtime": 1791112927.3260677,
+    "seen": 1791117955.179517,
+    "ast_hash": "118b31406d108b619ab064c5cd7706fe",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-05-dark.svg": {
+    "mtime": 1791112927.3261566,
+    "seen": 1791117955.179517,
+    "ast_hash": "d0c1fd4e02d320c2d1699154b6c2b7b5",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-05-light.svg": {
+    "mtime": 1791112927.3262331,
+    "seen": 1791117955.179518,
+    "ast_hash": "8ef8230305331caa7ac13332e9b0e290",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-06-dark.svg": {
+    "mtime": 1791112927.3264046,
+    "seen": 1791117955.179518,
+    "ast_hash": "61c35f54e30d673ad37acc630ba19878",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/assets/variante-06-light.svg": {
+    "mtime": 1791112927.326491,
+    "seen": 1791117955.179519,
+    "ast_hash": "9f614082a37d82f832727e21915a5c28",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/reference.png": {
+    "mtime": 1791112677.5108118,
+    "seen": 1791117955.179519,
+    "ast_hash": "f7fa0492ec7af009360d871b723111bc",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/variantes.png": {
+    "mtime": 1791112936.30364,
+    "seen": 1791117955.179519,
+    "ast_hash": "688b5d89f1653b2a8415d7a01703357c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/variants/topological-01/variantes.svg": {
+    "mtime": 1791112927.531736,
+    "seen": 1791117955.17952,
+    "ast_hash": "e093fdbbfa52cc07fa79e4817be812e1",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/lockup-horizontal-light.svg": {
+    "mtime": 1791117001.0581932,
+    "seen": 1791117955.17952,
+    "ast_hash": "d92dea9b7fc9fde18c2957bb4a5eea2c",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/symbol-dark.png": {
+    "mtime": 1791116708.3444436,
+    "seen": 1791117955.17952,
+    "ast_hash": "7c8dc827a039a41644a6c9741219b339",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/symbol-light.png": {
+    "mtime": 1791116708.3068023,
+    "seen": 1791117955.179521,
+    "ast_hash": "8143998952a5e7484ad56c07acdc44e4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/wordmark-dark.png": {
+    "mtime": 1791116708.711578,
+    "seen": 1791117955.179521,
+    "ast_hash": "9de0b66726d698347a3b32706bb47e05",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/wordmark-light.png": {
+    "mtime": 1791116708.6675928,
+    "seen": 1791117955.179521,
+    "ast_hash": "86a607a0f922e87302810fd9d916ddd5",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/player-1440.png": {
+    "mtime": 1791117035.7839394,
+    "seen": 1791117955.179522,
+    "ast_hash": "7246708e54731f2ea260d7d11d20b339",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/player-390.png": {
+    "mtime": 1791117035.870083,
+    "seen": 1791117955.179522,
+    "ast_hash": "1731eeaaa5ccb729912fae7dbf6a671f",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/poster.jpg": {
+    "mtime": 1791116840.734068,
+    "seen": 1791117955.179523,
+    "ast_hash": "02c96148e8b1e81445c6158a31983292",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-01.jpg": {
+    "mtime": 1791116840.461053,
+    "seen": 1791117955.179523,
+    "ast_hash": "24eb9f7dbfee2c59deab9a37490241d2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-02.jpg": {
+    "mtime": 1791116840.5098567,
+    "seen": 1791117955.179523,
+    "ast_hash": "cad32202ff250d6eccaed2cca1d014c4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-03.jpg": {
+    "mtime": 1791116840.5613496,
+    "seen": 1791117955.1795242,
+    "ast_hash": "aed15fd64d6697458d2033e1d5b5b610",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-04.jpg": {
+    "mtime": 1791116840.5842574,
+    "seen": 1791117955.1795242,
+    "ast_hash": "6d2a6a16206638a58651698f02cb6437",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-05.jpg": {
+    "mtime": 1791116840.609675,
+    "seen": 1791117955.1795251,
+    "ast_hash": "5ba6164f22251486a340eea7d31dc66a",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-06.jpg": {
+    "mtime": 1791116840.6341379,
+    "seen": 1791117955.1795251,
+    "ast_hash": "1eaf8bbefd8b401f0653370433627e2e",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-07.jpg": {
+    "mtime": 1791116840.6638286,
+    "seen": 1791117955.1795251,
+    "ast_hash": "05a52d3946aa52496f86ceecf27088a9",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/scene-08.jpg": {
+    "mtime": 1791116840.6878214,
+    "seen": 1791117955.1795259,
+    "ast_hash": "a8a6e6585ebf85949b5fc6e83bbb8919",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/storyboard.jpg": {
+    "mtime": 1791116840.701922,
+    "seen": 1791117955.1795259,
+    "ast_hash": "5ae5c6328a8f1bd6a9b5bc3773e05d37",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-01.jpg": {
+    "mtime": 1791117623.2044258,
+    "seen": 1791117955.1795268,
+    "ast_hash": "7bd35dc093acf1a3ccbfe2767f44d120",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-02.jpg": {
+    "mtime": 1791117623.2940657,
+    "seen": 1791117955.1795268,
+    "ast_hash": "118fa38e8b8e7a59e26e8c0f45aeca96",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-03.jpg": {
+    "mtime": 1791117623.454558,
+    "seen": 1791117955.1795268,
+    "ast_hash": "ed28003173145fc53150f5b7e8f649f9",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-04.jpg": {
+    "mtime": 1791117623.5414917,
+    "seen": 1791117955.179528,
+    "ast_hash": "2eaac25e4d28b4db1b84f0a907e1eaa7",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-05.jpg": {
+    "mtime": 1791117623.6170714,
+    "seen": 1791117955.179528,
+    "ast_hash": "2cd58645a01a9e8087f62d9ec6e9db2d",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-06.jpg": {
+    "mtime": 1791117623.7103324,
+    "seen": 1791117955.179528,
+    "ast_hash": "a2c3e35ff736e3d6383344e50c2dc647",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-07.jpg": {
+    "mtime": 1791117623.8089416,
+    "seen": 1791117955.179529,
+    "ast_hash": "589b2bbe83bfe2b9755219097cbb4ac6",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-08.jpg": {
+    "mtime": 1791117623.9110615,
+    "seen": 1791117955.17953,
+    "ast_hash": "24a0430fa3f2dbd83b49eb70b3f07458",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-09.jpg": {
+    "mtime": 1791117624.0244024,
+    "seen": 1791117955.179531,
+    "ast_hash": "a611b2a567da85117fa83bd583359ce4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/verified-frame-10.jpg": {
+    "mtime": 1791117624.1423695,
+    "seen": 1791117955.179531,
+    "ast_hash": "ee089b1f0f21f424e7c9abaa924ae86a",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/assets/header.png": {
+    "mtime": 1791117933.4687283,
+    "seen": 1791117955.179531,
+    "ast_hash": "2e6a9d8a2ac97dc3d853bd5030aeb153",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/preview/first-source.jpg": {
+    "mtime": 1791117887.342781,
+    "seen": 1791117955.179532,
+    "ast_hash": "fb0341d26b1ba74cb3fe9653de7331f2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/preview/group-source.jpg": {
+    "mtime": 1791117862.7239716,
+    "seen": 1791117955.179532,
+    "ast_hash": "bbb2eb42e19b4d8e5eb65999d6cf067d",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/preview/source-contact.jpg": {
+    "mtime": 1791117825.490221,
+    "seen": 1791117955.179532,
+    "ast_hash": "9145fc4ad348049d0627fb1e8ccf0090",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/mix.wav": {
+    "mtime": 1791117001.9461935,
+    "seen": 1791117955.179533,
+    "ast_hash": "df9cdc6f617abdff311c8c834048d617",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/original-score.wav": {
+    "mtime": 1791117001.934922,
+    "seen": 1791117955.179533,
+    "ast_hash": "6f9dcfe15e9981dead6051a511344b02",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/picture.mp4": {
+    "mtime": 1791116867.1389766,
+    "seen": 1791117955.1795342,
+    "ast_hash": "ea7bbc6e63eb3a7baef6365fbeae8ed2",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-01.wav": {
+    "mtime": 1791117001.4578269,
+    "seen": 1791117955.1795342,
+    "ast_hash": "02ea334962e2c45ab3caebe798c68ccd",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-02.wav": {
+    "mtime": 1791117001.4879925,
+    "seen": 1791117955.1795342,
+    "ast_hash": "a21792ab602f556be2ee8b4b6c1b355b",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-03.wav": {
+    "mtime": 1791117001.520837,
+    "seen": 1791117955.1795352,
+    "ast_hash": "4976e39f93027c144fae5cc0151348be",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-04.wav": {
+    "mtime": 1791117001.549982,
+    "seen": 1791117955.1795352,
+    "ast_hash": "3a341379dde84524a71ea15486ae0a49",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-05-fit.wav": {
+    "mtime": 1791117001.6191509,
+    "seen": 1791117955.1795352,
+    "ast_hash": "46458486e701f0e2e632341b55f25623",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-05-trim.wav": {
+    "mtime": 1791117001.5823908,
+    "seen": 1791117955.1795359,
+    "ast_hash": "74963d129a9fb33f41bf24b69a0d89c3",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-05.wav": {
+    "mtime": 1791117001.5778158,
+    "seen": 1791117955.1795359,
+    "ast_hash": "098c00a59abc0bca19198d03ed798976",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-06.wav": {
+    "mtime": 1791117001.6487708,
+    "seen": 1791117955.1795368,
+    "ast_hash": "559781a89e2e1689aaa968e455c745ef",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-07.wav": {
+    "mtime": 1791117001.680495,
+    "seen": 1791117955.1795368,
+    "ast_hash": "6ad4566471f25616875d820b46b39c33",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voice-08.wav": {
+    "mtime": 1791117001.7112868,
+    "seen": 1791117955.1795368,
+    "ast_hash": "3174808568a531d063da37e142cba4ce",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/assets/voiceover.wav": {
+    "mtime": 1791117001.9205668,
+    "seen": 1791117955.179538,
+    "ast_hash": "55312cb2ccc08b9ebada06690e28bf36",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/APORIA-60s-English-1080p.mp4": {
+    "mtime": 1791117003.9254396,
+    "seen": 1791117955.179538,
+    "ast_hash": "eb8359ef1ef4fd2492a61b396402c8a4",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/APORIA-60s-No-Voice-1080p.mp4": {
+    "mtime": 1791117730.8544197,
+    "seen": 1791117955.179539,
+    "ast_hash": "7fd8401ee2522949dced0e56203fb981",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/soundtrack-music-only.wav": {
+    "mtime": 1791117730.5209346,
+    "seen": 1791117955.179539,
+    "ast_hash": "70f11bc86238f44c79abc24f82653a06",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/exports/soundtrack.wav": {
+    "mtime": 1791117003.4999993,
+    "seen": 1791117955.179539,
+    "ast_hash": "f24118262e98a06988cbf83f5f2ff972",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/APORIA-Team-Branding-Draft-59.96s-1080p.mp4": {
+    "mtime": 1791117951.0243523,
+    "seen": 1791117955.17954,
+    "ast_hash": "0ed8013f111f504330beb7c3d3f529d5",
+    "semantic_hash": ""
+  },
+  "scripts/verify-landing.mjs": {
+    "mtime": 1791123539.0647254,
+    "seen": 1791123739.6237178,
+    "ast_hash": "4d27e60744122c7d040da581c69d2f22",
+    "semantic_hash": ""
+  },
+  "src/landing/Landing.jsx": {
+    "mtime": 1791123350.1876917,
+    "seen": 1791123739.623724,
+    "ast_hash": "18a35c1f1be0676b1c50bdfd1df9708c",
+    "semantic_hash": ""
+  },
+  "src/visualStates.js": {
+    "mtime": 1791123350.1197658,
+    "seen": 1791123739.623725,
+    "ast_hash": "a4772e56b5f53adb085b3048de97234f",
+    "semantic_hash": ""
+  },
+  ".impeccable/aporia-landing-brief.md": {
+    "mtime": 1791123110.494485,
+    "seen": 1791123739.623727,
+    "ast_hash": "de44a75158626a69bae284a0cbccab9e",
+    "semantic_hash": ""
+  },
+  ".impeccable/surfaces/src-landing-landing-jsx.md": {
+    "mtime": 1791123110.5779033,
+    "seen": 1791123739.623728,
+    "ast_hash": "e3a71f4704537f096b1279b215379a73",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/README.md": {
+    "mtime": 1791117986.8417447,
+    "seen": 1791123739.6237419,
+    "ast_hash": "a96d56a3a8fcc78a0a88dee3284e4c12",
+    "semantic_hash": ""
+  },
+  "brand/aporia/video/team/preview/brand-preview.jpg": {
+    "mtime": 1791117960.2528553,
+    "seen": 1791123739.623796,
+    "ast_hash": "612864768d8db6d0306d5b5ee64e853e",
+    "semantic_hash": ""
+  },
+  "scripts/study.mjs": {
+    "mtime": 1791169667.9114873,
+    "seen": 1791188930.829364,
+    "ast_hash": "fe95c94870fa7d4bcf3cc250671ec231",
+    "semantic_hash": ""
+  },
+  "server/aporia-policies.json": {
+    "mtime": 1791124352.5759716,
+    "seen": 1791188930.829366,
+    "ast_hash": "fb831ee814bd2a5391e7e4822cbbb8f5",
+    "semantic_hash": ""
+  },
+  "server/protocol.mjs": {
+    "mtime": 1791193770.3230023,
+    "seen": 1791199225.505517,
+    "ast_hash": "e84b0f7b564dec123c64290a36c3d44d",
+    "semantic_hash": ""
+  },
+  "server/study.mjs": {
+    "mtime": 1791169667.9112504,
+    "seen": 1791188930.829369,
+    "ast_hash": "3aa3a5540929bfd7090d61b64e4cc350",
+    "semantic_hash": ""
+  },
+  "src/ResearchDossier.jsx": {
+    "mtime": 1791169364.4199758,
+    "seen": 1791188930.829371,
+    "ast_hash": "f2264737539a82c39bfa7895742aed98",
+    "semantic_hash": ""
+  },
+  "tests/study.test.mjs": {
+    "mtime": 1791169268.1431065,
+    "seen": 1791188930.8293738,
+    "ast_hash": "75f28405c985b6d463bef8ccdbe4732a",
+    "semantic_hash": ""
+  },
+  "AUDIT.md": {
+    "mtime": 1791189007.051542,
+    "seen": 1791199225.505536,
+    "ast_hash": "257ecb976bdc018c608255247f9ae75a",
+    "semantic_hash": ""
+  },
+  "EXPERIMENTS.md": {
+    "mtime": 1791200249.546877,
+    "seen": 1791200281.869038,
+    "ast_hash": "9c331c1bc58dcf0493e93be92a2951bf",
+    "semantic_hash": ""
+  },
+  "RESEARCH_ROADMAP.md": {
+    "mtime": 1791200249.5465949,
+    "seen": 1791200281.86904,
+    "ast_hash": "1c3dec41ddbbb0157c2a4a6988008746",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/__init__.py": {
+    "mtime": 1791192140.389685,
+    "seen": 1791199225.505453,
+    "ast_hash": "828100aa8ae41246792fe85eb21a539d",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/__main__.py": {
+    "mtime": 1791192140.410599,
+    "seen": 1791199225.505454,
+    "ast_hash": "7852315f8a496dc47b0f66ad2807d845",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/__init__.py": {
+    "mtime": 1791192140.4642582,
+    "seen": 1791199225.505455,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/roles.py": {
+    "mtime": 1791192140.930648,
+    "seen": 1791199225.505457,
+    "ast_hash": "cc5b49139640eed195943c9f364ace79",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/api/__init__.py": {
+    "mtime": 1791192140.9777753,
+    "seen": 1791199225.5054579,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/api/server.py": {
+    "mtime": 1791192140.992996,
+    "seen": 1791199225.5054588,
+    "ast_hash": "84eea9f758f489e6b01de3fa30b91595",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/cli.py": {
+    "mtime": 1791192141.0086777,
+    "seen": 1791199225.5054588,
+    "ast_hash": "f587f3f21759aaff399093f0b85a64a5",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/config.py": {
+    "mtime": 1791192501.3065171,
+    "seen": 1791199225.50546,
+    "ast_hash": "513549bb28e9127e8bc56a4be4025e99",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/__init__.py": {
+    "mtime": 1791192141.0717516,
+    "seen": 1791199225.50546,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/build.py": {
+    "mtime": 1791192141.0882816,
+    "seen": 1791199225.505461,
+    "ast_hash": "78526511628eb2e71684a845c7bf39bf",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/dedup.py": {
+    "mtime": 1791192141.1042187,
+    "seen": 1791199225.505462,
+    "ast_hash": "ee3a56c876e0a5d05aa60bacea3ff4c7",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/http.py": {
+    "mtime": 1791193770.2673988,
+    "seen": 1791199225.5054631,
+    "ast_hash": "5d5280cc81cef9e2637b16e83a7956ca",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/openalex.py": {
+    "mtime": 1791192141.1360695,
+    "seen": 1791199225.505464,
+    "ast_hash": "ce6a16680e63b4643eedd6f4482bf8bd",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/pdf.py": {
+    "mtime": 1791192141.1520562,
+    "seen": 1791199225.505464,
+    "ast_hash": "a5f02955c534c0cc017466b3fad2041e",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/philarchive_oai.py": {
+    "mtime": 1791192141.1677923,
+    "seen": 1791199225.505465,
+    "ast_hash": "689459d599653b4882b6c4cffd10d573",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/corpus/targets.py": {
+    "mtime": 1791193687.7948391,
+    "seen": 1791199225.505465,
+    "ast_hash": "2febe56e44175788290afdc2f9868397",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/databricks_sync.py": {
+    "mtime": 1791192141.1990132,
+    "seen": 1791199225.5054662,
+    "ast_hash": "2b8f967d6e4a3b78de4228d49a1aac95",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/__init__.py": {
+    "mtime": 1791192141.2470164,
+    "seen": 1791199225.505467,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/common.py": {
+    "mtime": 1791192141.2620082,
+    "seen": 1791199225.505467,
+    "ast_hash": "d743b8650122178684eaf4ee07abef3f",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/e1_prior_art.py": {
+    "mtime": 1791192141.2780228,
+    "seen": 1791199225.505468,
+    "ast_hash": "1e258d9dcfd2faf170c46a9b7880fae1",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/e2_calibration.py": {
+    "mtime": 1791192141.2932355,
+    "seen": 1791199225.5054688,
+    "ast_hash": "3cc10d7d97c75ae57e4bb576b313b4f4",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/e3_diversity.py": {
+    "mtime": 1791192141.3082776,
+    "seen": 1791199225.5054688,
+    "ast_hash": "c1f2ff62a1ef19ca0d07071d2bebd1f4",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/fixtures/schellenberg.json": {
+    "mtime": 1791192141.354869,
+    "seen": 1791199225.50547,
+    "ast_hash": "4d0af279d54d73bb216bb09e2c8e4bd3",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/eval/run_all.py": {
+    "mtime": 1791192141.3707051,
+    "seen": 1791199225.50547,
+    "ast_hash": "a082898a6db4f2bcfac3b25370024df8",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/export.py": {
+    "mtime": 1791192141.3866012,
+    "seen": 1791199225.505471,
+    "ast_hash": "3b973a6026ef894f0516514a9c1bf5e9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/__init__.py": {
+    "mtime": 1791192141.432971,
+    "seen": 1791199225.505472,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/build.py": {
+    "mtime": 1791192141.4501586,
+    "seen": 1791199225.5054731,
+    "ast_hash": "0823a0951186035cab378e77cfdbcea1",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/extract.py": {
+    "mtime": 1791200073.2761366,
+    "seen": 1791200281.8689961,
+    "ast_hash": "aaf3efd5c7fb12b3c4ac1be2296d26f6",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/formalize.py": {
+    "mtime": 1791192141.4849205,
+    "seen": 1791199225.505474,
+    "ast_hash": "de2afcc648e285d955dea66067127ba9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/index.py": {
+    "mtime": 1791198760.778601,
+    "seen": 1791199225.505475,
+    "ast_hash": "ebcc0c05660107bddf6c2d8075fc9bc9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/logic.py": {
+    "mtime": 1791192141.5168526,
+    "seen": 1791199225.505475,
+    "ast_hash": "516dffd2df76933f7c6828a329c9e421",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/schema.py": {
+    "mtime": 1791192501.3250535,
+    "seen": 1791199225.505476,
+    "ast_hash": "e1db80a304b2d82de939750760762396",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/graph/store.py": {
+    "mtime": 1791192141.5495768,
+    "seen": 1791199225.5054772,
+    "ast_hash": "fc2ee6002bedffac9932c29273da1816",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/__init__.py": {
+    "mtime": 1791192141.5967922,
+    "seen": 1791199225.505478,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/aporia_profiles.py": {
+    "mtime": 1791192141.6131926,
+    "seen": 1791199225.505478,
+    "ast_hash": "aa37e6b745339699f1aa0e6a57ae824b",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/assess.py": {
+    "mtime": 1791192141.6292171,
+    "seen": 1791199225.5054789,
+    "ast_hash": "e7d574fe0cbb49f5482138dd1be3ee94",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/bridge.py": {
+    "mtime": 1791192141.6455836,
+    "seen": 1791199225.50548,
+    "ast_hash": "d2e61b0ac1e0769730278d8c68537faa",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/brief.py": {
+    "mtime": 1791192141.661581,
+    "seen": 1791199225.505481,
+    "ast_hash": "fac6fdc852c438abb689dcd871974226",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/cognition.py": {
+    "mtime": 1791192141.6777918,
+    "seen": 1791199225.505481,
+    "ast_hash": "afe4dd57970508c66090001860243ad1",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/debate.py": {
+    "mtime": 1791192849.4067388,
+    "seen": 1791199225.505482,
+    "ast_hash": "0d2e49658bc924638da5ec8d3e92dc4f",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/director.py": {
+    "mtime": 1791192141.7095795,
+    "seen": 1791199225.505483,
+    "ast_hash": "c5fc4a4ec6ba399dae669017929f0dfb",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/gauntlet.py": {
+    "mtime": 1791192141.7247796,
+    "seen": 1791199225.505484,
+    "ast_hash": "b7ac4abc5bf15eb98dad555286ae75fc",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/generators.py": {
+    "mtime": 1791192141.741977,
+    "seen": 1791199225.505484,
+    "ast_hash": "de2b26e91abf4ab1a5783c527994a913",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/novelty.py": {
+    "mtime": 1791193687.821223,
+    "seen": 1791199225.505485,
+    "ast_hash": "a28e239cb28f61ddfc778e6dbeef0e14",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/lab/run.py": {
+    "mtime": 1791192501.348765,
+    "seen": 1791199225.505486,
+    "ast_hash": "b19c2611c2be83ad6768bba2f9b25b16",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/__init__.py": {
+    "mtime": 1791192141.8194735,
+    "seen": 1791199225.505486,
+    "ast_hash": "e1c06d85ae7b8b032bef47e42e4c08f9",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/budget.py": {
+    "mtime": 1791192501.3684766,
+    "seen": 1791199225.5054872,
+    "ast_hash": "a1bf68c05a2a932398dce945392269d3",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/cache.py": {
+    "mtime": 1791192141.8508599,
+    "seen": 1791199225.505488,
+    "ast_hash": "7ceb7ca7dc62aeeec1584c4771a79f3e",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/client.py": {
+    "mtime": 1791199530.558167,
+    "seen": 1791199767.784246,
+    "ast_hash": "399178b7926139d6eb0dfbbf70eeb5b0",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/providers.py": {
+    "mtime": 1791192141.882903,
+    "seen": 1791199225.5054889,
+    "ast_hash": "67c6a655cff545e9b98706be38395e6a",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/resolve.py": {
+    "mtime": 1791192141.8978312,
+    "seen": 1791199225.5054898,
+    "ast_hash": "0d7c0f187c7e15ccc0798fe1e3117d2d",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/llm/tracing.py": {
+    "mtime": 1791192141.9135895,
+    "seen": 1791199225.5054898,
+    "ast_hash": "c318d6c12ce3da87ec8ef60d1df6ceaa",
+    "semantic_hash": ""
+  },
+  "research/discovery.py": {
+    "mtime": 1791192704.447169,
+    "seen": 1791199225.505491,
+    "ast_hash": "c9a487b229b25199dcb29b4e2b688411",
+    "semantic_hash": ""
+  },
+  "research/local_provider.py": {
+    "mtime": 1791192501.475486,
+    "seen": 1791199225.505492,
+    "ast_hash": "c719606750e7e8cb45ec91f815e9241e",
+    "semantic_hash": ""
+  },
+  "research/tests/conftest.py": {
+    "mtime": 1791193569.633753,
+    "seen": 1791199225.505492,
+    "ast_hash": "334bfbb2155c0a2c5843bbce3ffab438",
+    "semantic_hash": ""
+  },
+  "research/tests/test_assess.py": {
+    "mtime": 1791193307.8182766,
+    "seen": 1791199225.505493,
+    "ast_hash": "d4a64bd5899e85cd8f940bc9d973c60a",
+    "semantic_hash": ""
+  },
+  "research/tests/test_brief_md.py": {
+    "mtime": 1791193307.8481758,
+    "seen": 1791199225.505494,
+    "ast_hash": "aa4d163933f9c2d2c35189ed84c3a1f7",
+    "semantic_hash": ""
+  },
+  "research/tests/test_dedup.py": {
+    "mtime": 1791193307.869123,
+    "seen": 1791199225.505494,
+    "ast_hash": "9f2d5a8327010957753d6b530ad4d550",
+    "semantic_hash": ""
+  },
+  "research/tests/test_director.py": {
+    "mtime": 1791193307.8906124,
+    "seen": 1791199225.505495,
+    "ast_hash": "e28e6008fbdab254fc7ec32d5c2dcb7f",
+    "semantic_hash": ""
+  },
+  "research/tests/test_discovery.py": {
+    "mtime": 1791193569.7083414,
+    "seen": 1791199225.505496,
+    "ast_hash": "a081d89a4ec15c1925b92e0f1762cf73",
+    "semantic_hash": ""
+  },
+  "research/tests/test_export_ranking.py": {
+    "mtime": 1791193307.9134088,
+    "seen": 1791199225.505497,
+    "ast_hash": "e13adfe2a6f1b0ffb0d7bdc2bd9f42ac",
+    "semantic_hash": ""
+  },
+  "research/tests/test_failure_states.py": {
+    "mtime": 1791193307.936366,
+    "seen": 1791199225.505497,
+    "ast_hash": "80db745a318a7919f99962d680d0cc4b",
+    "semantic_hash": ""
+  },
+  "research/tests/test_gauntlet.py": {
+    "mtime": 1791193307.9602232,
+    "seen": 1791199225.5054982,
+    "ast_hash": "a131f9e4e9f0651c1a2cbd4b4b0c04d5",
+    "semantic_hash": ""
+  },
+  "research/tests/test_generators.py": {
+    "mtime": 1791193307.9807167,
+    "seen": 1791199225.5054982,
+    "ast_hash": "917387a061b8c17c8e9e947253585e8b",
+    "semantic_hash": ""
+  },
+  "research/tests/test_logic.py": {
+    "mtime": 1791193308.0007002,
+    "seen": 1791199225.505499,
+    "ast_hash": "c83e4ec8b81df29394687d982aadc052",
+    "semantic_hash": ""
+  },
+  "research/tests/test_novelty.py": {
+    "mtime": 1791193308.0231314,
+    "seen": 1791199225.5054998,
+    "ast_hash": "a3e674730ad3a45098201f39ae776857",
+    "semantic_hash": ""
+  },
+  "research/tests/test_worker.py": {
+    "mtime": 1791198698.7467968,
+    "seen": 1791199225.5054998,
+    "ast_hash": "14a8f85dcd9a872da829e6135a452a2a",
+    "semantic_hash": ""
+  },
+  "research/tests/worker_fixture.py": {
+    "mtime": 1791198736.4906707,
+    "seen": 1791199225.505501,
+    "ast_hash": "92ed335db7c740831563bae6c594d6fb",
+    "semantic_hash": ""
+  },
+  "research/upstream.json": {
+    "mtime": 1791192141.9281394,
+    "seen": 1791199225.505501,
+    "ast_hash": "6666961e29975293070f0c307d214b7b",
+    "semantic_hash": ""
+  },
+  "research/worker.py": {
+    "mtime": 1791198483.0958843,
+    "seen": 1791199225.505502,
+    "ast_hash": "0c262938f84bfe4ea8560c69f05d4e79",
+    "semantic_hash": ""
+  },
+  "scripts/discovery-ui-check.mjs": {
+    "mtime": 1791198483.1233597,
+    "seen": 1791199225.505503,
+    "ast_hash": "746de42ac3c0e92ea9ba9d4ad6b0e7be",
+    "semantic_hash": ""
+  },
+  "scripts/research-setup.mjs": {
+    "mtime": 1791193569.5355422,
+    "seen": 1791199225.505506,
+    "ast_hash": "1badcd7be7dc2540e58366abad201bd5",
+    "semantic_hash": ""
+  },
+  "scripts/research-smoke.py": {
+    "mtime": 1791194101.7461245,
+    "seen": 1791199225.505507,
+    "ast_hash": "b3f50fe38cfbc8d6e0a9d8dc42f9a48a",
+    "semantic_hash": ""
+  },
+  "scripts/research-test.mjs": {
+    "mtime": 1791193569.5690134,
+    "seen": 1791199225.505507,
+    "ast_hash": "5c83fdb03bc0f304e8f4cf49053af01d",
+    "semantic_hash": ""
+  },
+  "server/discovery.mjs": {
+    "mtime": 1791199001.7885747,
+    "seen": 1791199225.505513,
+    "ast_hash": "e27e90dc05e04dcbc3fa5920ca3783bd",
+    "semantic_hash": ""
+  },
+  "src/DiscoveryPanel.jsx": {
+    "mtime": 1791198813.0333211,
+    "seen": 1791199225.505522,
+    "ast_hash": "ab688de602eac15b9a7f9dc153901dba",
+    "semantic_hash": ""
+  },
+  "tests/discovery.test.mjs": {
+    "mtime": 1791199222.5223525,
+    "seen": 1791199225.505527,
+    "ast_hash": "c9b23270155d95da54f0e11e80e245f1",
+    "semantic_hash": ""
+  },
+  "tests/fixtures/upstream-discovery-brief.json": {
+    "mtime": 1791194193.3131573,
+    "seen": 1791199225.505528,
+    "ast_hash": "b8146ae55c3f2ec5b94b13fd78fd71e5",
+    "semantic_hash": ""
+  },
+  "REFERENCE_PIPELINE_AUDIT.md": {
+    "mtime": 1791199191.9409914,
+    "seen": 1791199225.5055392,
+    "ast_hash": "0e2abc0708d7f8a8117d5d712a0a4b9b",
+    "semantic_hash": ""
+  },
+  "research/UPSTREAM.md": {
+    "mtime": 1791200249.5462499,
+    "seen": 1791200281.8690538,
+    "ast_hash": "d7b149b69eace8220bc018eb35a6bb35",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/abstract_claims.md": {
+    "mtime": 1791192140.5166845,
+    "seen": 1791199225.505561,
+    "ast_hash": "1ecac4f88371908b8ddaacf8625b9a32",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/argument.md": {
+    "mtime": 1791192140.5321836,
+    "seen": 1791199225.505562,
+    "ast_hash": "4629ddedcba152a85524ca300426a4f0",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/assessor.md": {
+    "mtime": 1791192140.548919,
+    "seen": 1791199225.505562,
+    "ast_hash": "fad3c04c7c7e00c41b35be9225769298",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/attacker_rejoinder.md": {
+    "mtime": 1791192140.563802,
+    "seen": 1791199225.5055628,
+    "ast_hash": "e299ff3e5cf814201c9db3f3ba0ab0a5",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/brief.md": {
+    "mtime": 1791192140.5799127,
+    "seen": 1791199225.5055628,
+    "ast_hash": "ad5967685d67e6c50bde33763147c335",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/defender.md": {
+    "mtime": 1791192140.5951896,
+    "seen": 1791199225.505564,
+    "ast_hash": "224f92cf62600954d8a362988cf25382",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/eval_find_reply.md": {
+    "mtime": 1791192140.611087,
+    "seen": 1791199225.505565,
+    "ast_hash": "92c25ac308ed0222f7d1a4bc04b5368f",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/eval_misread.md": {
+    "mtime": 1791192140.625946,
+    "seen": 1791199225.505565,
+    "ast_hash": "e067a2ab58b635f87ef6f1766416447d",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/eval_objection.md": {
+    "mtime": 1791192140.642746,
+    "seen": 1791199225.505566,
+    "ast_hash": "c43f9890f6fe9757532b10b73d9aed18",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/eval_pair.md": {
+    "mtime": 1791192140.6577098,
+    "seen": 1791199225.505567,
+    "ast_hash": "8e13dfbdb5a1df7cc65d138a0ae34634",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/eval_plain.md": {
+    "mtime": 1791192140.6734414,
+    "seen": 1791199225.505567,
+    "ast_hash": "5296a686ae8e6b4a95cef1df0b50c3e5",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/eval_reword.md": {
+    "mtime": 1791192140.6884546,
+    "seen": 1791199225.505568,
+    "ast_hash": "d7ec44d448bf684001de4a18324e1841",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/extractor.md": {
+    "mtime": 1791192140.703771,
+    "seen": 1791199225.505569,
+    "ast_hash": "097224c0e98a3f5bf2c9d5e4c5184c05",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/formalizer.md": {
+    "mtime": 1791192140.7193336,
+    "seen": 1791199225.505569,
+    "ast_hash": "52bd9982f4943c1f828486bd8f819a80",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/generator_blind.md": {
+    "mtime": 1791192140.7350485,
+    "seen": 1791199225.50557,
+    "ast_hash": "d3c8d5f8fba8ba4f6d3bfbb4655d04fe",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/generator_hidden.md": {
+    "mtime": 1791192140.750825,
+    "seen": 1791199225.5055711,
+    "ast_hash": "12ec082043eb7f36fb9f0dc2f262f0e6",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/generator_reasoner.md": {
+    "mtime": 1791192140.766013,
+    "seen": 1791199225.5055711,
+    "ast_hash": "f27db57a583d516a75fefb1fc90b955a",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/generator_tradition.md": {
+    "mtime": 1791192140.788353,
+    "seen": 1791199225.505572,
+    "ast_hash": "a6379bcc63026dd71e8fdc3abdcb8e29",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/naive_question.md": {
+    "mtime": 1791192140.8036375,
+    "seen": 1791199225.505572,
+    "ast_hash": "f296aa36cad7f68279be06f1c339d48e",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/referee_label.md": {
+    "mtime": 1791192140.8193405,
+    "seen": 1791199225.505573,
+    "ast_hash": "decdee3b8ef190d72ced5cf9794cfe9a",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/referee_prescreen.md": {
+    "mtime": 1791192140.8352294,
+    "seen": 1791199225.505573,
+    "ast_hash": "69309b66ebd435373a047d1b44eb8266",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/rerank.md": {
+    "mtime": 1791192140.851297,
+    "seen": 1791199225.505574,
+    "ast_hash": "3feb52669872fdaabdfc635e10096584",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/restate.md": {
+    "mtime": 1791192140.8667102,
+    "seen": 1791199225.505574,
+    "ast_hash": "a03ee3f74680424860b8ba49ec7c3c3b",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/reviser.md": {
+    "mtime": 1791192140.8827496,
+    "seen": 1791199225.505575,
+    "ast_hash": "14440739a1cc4e10bad6870a6673037c",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/sharpen.md": {
+    "mtime": 1791192140.8980627,
+    "seen": 1791199225.505576,
+    "ast_hash": "8ad13144baa3b1915b377e4a8905cb22",
+    "semantic_hash": ""
+  },
+  "research/crux_lab/agents/prompts/target_screen.md": {
+    "mtime": 1791192140.914888,
+    "seen": 1791199225.505576,
+    "ast_hash": "d431c671e24bcad2900bdfddea83e681",
+    "semantic_hash": ""
+  },
+  "research/requirements.lock.txt": {
+    "mtime": 1791193570.0169115,
+    "seen": 1791199225.5055768,
+    "ast_hash": "84f5392e9f94f64618a1e5968838993e",
+    "semantic_hash": ""
+  },
+  "research/requirements.txt": {
+    "mtime": 1791192501.4066434,
+    "seen": 1791199225.505578,
+    "ast_hash": "358f984e9d4e0c7e668b09a3bc16bb43",
+    "semantic_hash": ""
+  },
+  "research/tests/test_schema.py": {
+    "mtime": 1791200135.1387432,
+    "seen": 1791200281.869015,
+    "ast_hash": "86918a969ffc6e9bde4c5df690e6921c",
+    "semantic_hash": ""
+  },
+  "scripts/discovery-live-retry.mjs": {
+    "mtime": 1791199780.363302,
+    "seen": 1791200281.869018,
+    "ast_hash": "735f6ad0dece9ac6f8276235e7ac5869",
+    "semantic_hash": ""
+  }
+}

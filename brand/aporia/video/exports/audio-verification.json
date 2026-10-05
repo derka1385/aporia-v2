@@ -1,0 +1,57 @@
+{
+  "duration": 60,
+  "sampleRate": 48000,
+  "voice": "macOS Daniel / synthetic English UK",
+  "sceneVoices": [
+    {
+      "scene": 1,
+      "start": 0.6,
+      "seconds": 4.631,
+      "tempo": 1
+    },
+    {
+      "scene": 2,
+      "start": 7.5,
+      "seconds": 4.649,
+      "tempo": 1
+    },
+    {
+      "scene": 3,
+      "start": 14.5,
+      "seconds": 4.422,
+      "tempo": 1
+    },
+    {
+      "scene": 4,
+      "start": 20.5,
+      "seconds": 6.109,
+      "tempo": 1
+    },
+    {
+      "scene": 5,
+      "start": 28.5,
+      "seconds": 7.269,
+      "tempo": 1.129
+    },
+    {
+      "scene": 6,
+      "start": 36.5,
+      "seconds": 7.479,
+      "tempo": 1
+    },
+    {
+      "scene": 7,
+      "start": 45.5,
+      "seconds": 8.047,
+      "tempo": 1
+    },
+    {
+      "scene": 8,
+      "start": 54.3,
+      "seconds": 5.053,
+      "tempo": 1
+    }
+  ],
+  "originalComposition": true,
+  "mixedPeak": 0.6460731029510498
+}

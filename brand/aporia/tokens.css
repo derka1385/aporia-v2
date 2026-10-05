@@ -1,0 +1,43 @@
+:root {
+  --aporia-obsidian: #121416;
+  --aporia-paper: #F4F1E9;
+  --aporia-surface-dark: #1B1F23;
+  --aporia-surface-light: #E9E5DB;
+  --aporia-graphite: #383D43;
+  --aporia-text-secondary-dark: #B4BBC2;
+  --aporia-text-secondary-light: #596168;
+  --aporia-rule-dark: #353B42;
+  --aporia-rule-light: #D1CDC3;
+  --aporia-boundary-dark: #747E88;
+  --aporia-boundary-light: #76736C;
+  --aporia-iris-dark: #B7A2E8;
+  --aporia-iris-light: #65509A;
+  --aporia-cyan-dark: #79C5CF;
+  --aporia-cyan-light: #24636C;
+  --aporia-amber-dark: #DDB16B;
+  --aporia-amber-light: #805B22;
+}
+[data-aporia-theme="dark"] {
+  --background: var(--aporia-obsidian);
+  --surface: var(--aporia-surface-dark);
+  --text: var(--aporia-paper);
+  --textSecondary: var(--aporia-text-secondary-dark);
+  --rule: var(--aporia-rule-dark);
+  --boundary: var(--aporia-boundary-dark);
+  --reasoning: var(--aporia-iris-dark);
+  --exploration: var(--aporia-cyan-dark);
+  --event: var(--aporia-amber-dark);
+  --focus: var(--aporia-cyan-dark);
+}
+[data-aporia-theme="light"] {
+  --background: var(--aporia-paper);
+  --surface: var(--aporia-surface-light);
+  --text: var(--aporia-obsidian);
+  --textSecondary: var(--aporia-text-secondary-light);
+  --rule: var(--aporia-rule-light);
+  --boundary: var(--aporia-boundary-light);
+  --reasoning: var(--aporia-iris-light);
+  --exploration: var(--aporia-cyan-light);
+  --event: var(--aporia-amber-light);
+  --focus: var(--aporia-cyan-light);
+}

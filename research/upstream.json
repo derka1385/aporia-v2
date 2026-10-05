@@ -1,0 +1,319 @@
+{
+  "repository": "univerdread/crux-lab",
+  "revision": "22299f7f31178cdd357a410cac8d0808f5dcd179",
+  "aporiaRevision": "d45ef58f19a2dd3ae0a8195b1b01763348b2084a",
+  "files": [
+    {
+      "path": "crux_lab/__init__.py",
+      "upstreamBlob": "b864a83b53673f807683e85882bb05be494ad315"
+    },
+    {
+      "path": "crux_lab/__main__.py",
+      "upstreamBlob": "1ba921fcd0a3a345923e8612bde4dc24041f9779"
+    },
+    {
+      "path": "crux_lab/agents/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/agents/prompts/abstract_claims.md",
+      "upstreamBlob": "f23e979a25d7384ab4f7191f8d307f20f0f3cc02"
+    },
+    {
+      "path": "crux_lab/agents/prompts/argument.md",
+      "upstreamBlob": "685e9e0066b3760f757f0cecf4aa399fbeb105b2"
+    },
+    {
+      "path": "crux_lab/agents/prompts/assessor.md",
+      "upstreamBlob": "09e017b707a9ebd379245149f09bff52023c5205"
+    },
+    {
+      "path": "crux_lab/agents/prompts/attacker_rejoinder.md",
+      "upstreamBlob": "af3fc52910101963947051ff142d285a473c4d0b"
+    },
+    {
+      "path": "crux_lab/agents/prompts/brief.md",
+      "upstreamBlob": "6cb963ace5a3989e2edfdf9c1b6e2fd86697d7fd"
+    },
+    {
+      "path": "crux_lab/agents/prompts/defender.md",
+      "upstreamBlob": "01aa8ee23942f89405452351fcf179c1bea8dc52"
+    },
+    {
+      "path": "crux_lab/agents/prompts/eval_find_reply.md",
+      "upstreamBlob": "58adb1db76999b9f7335f95aa994dfe0714dab8c"
+    },
+    {
+      "path": "crux_lab/agents/prompts/eval_misread.md",
+      "upstreamBlob": "d2b7445deb72b57d64b590008565590969f8038d"
+    },
+    {
+      "path": "crux_lab/agents/prompts/eval_objection.md",
+      "upstreamBlob": "78c7c6b38071addfdfba3e50f5ee8a8129fc650e"
+    },
+    {
+      "path": "crux_lab/agents/prompts/eval_pair.md",
+      "upstreamBlob": "cd90bcc281d310186f33eaad80f4c3e5a58a2345"
+    },
+    {
+      "path": "crux_lab/agents/prompts/eval_plain.md",
+      "upstreamBlob": "8eb8db7897a0f2074c6c4360ed045d5c0514aca0"
+    },
+    {
+      "path": "crux_lab/agents/prompts/eval_reword.md",
+      "upstreamBlob": "8ae4581f6f7e3c2c892a2b041ad1335b52bca0e2"
+    },
+    {
+      "path": "crux_lab/agents/prompts/extractor.md",
+      "upstreamBlob": "40c58158a4b567bdde5a7c52002b16406bee4d67"
+    },
+    {
+      "path": "crux_lab/agents/prompts/formalizer.md",
+      "upstreamBlob": "f41a2fcb46fcb96ecd31a00e50e831aeec2b05bd"
+    },
+    {
+      "path": "crux_lab/agents/prompts/generator_blind.md",
+      "upstreamBlob": "0eb12e73cad886a710f45f720154c043db9e7162"
+    },
+    {
+      "path": "crux_lab/agents/prompts/generator_hidden.md",
+      "upstreamBlob": "c63c8e45d8537b58051eb36514883713af018138"
+    },
+    {
+      "path": "crux_lab/agents/prompts/generator_reasoner.md",
+      "upstreamBlob": "5de583f3e3a8360abb35f723c30c4e1ef53b701d"
+    },
+    {
+      "path": "crux_lab/agents/prompts/generator_tradition.md",
+      "upstreamBlob": "38d24ef05648cdf4f5df82fcd33024e837bb1527"
+    },
+    {
+      "path": "crux_lab/agents/prompts/naive_question.md",
+      "upstreamBlob": "93899707c8dafafe6bbc03d5b3f847e9c1d7986e"
+    },
+    {
+      "path": "crux_lab/agents/prompts/referee_label.md",
+      "upstreamBlob": "9442abc3ad916c85229f5cc497031be905cd6907"
+    },
+    {
+      "path": "crux_lab/agents/prompts/referee_prescreen.md",
+      "upstreamBlob": "72b41e0a7ecbff4193e1d8644b15c0989a4d5fa0"
+    },
+    {
+      "path": "crux_lab/agents/prompts/rerank.md",
+      "upstreamBlob": "4c9500faa54e2d30427683aa00aa189802c7f62c"
+    },
+    {
+      "path": "crux_lab/agents/prompts/restate.md",
+      "upstreamBlob": "3a28eeb360e6ae8bcce70e6e2bdca541df2d2836"
+    },
+    {
+      "path": "crux_lab/agents/prompts/reviser.md",
+      "upstreamBlob": "a9d266883257fb5be5edf3a38f17693888327afa"
+    },
+    {
+      "path": "crux_lab/agents/prompts/sharpen.md",
+      "upstreamBlob": "95ad547e99c7012e6578cb3a5e698dd6638dff0e"
+    },
+    {
+      "path": "crux_lab/agents/prompts/target_screen.md",
+      "upstreamBlob": "21dd64886e0c67518997aed786cb90b15ba7838b"
+    },
+    {
+      "path": "crux_lab/agents/roles.py",
+      "upstreamBlob": "3bd84073f2b2691110bfa31da29cbe6e2f21ac72"
+    },
+    {
+      "path": "crux_lab/api/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/api/server.py",
+      "upstreamBlob": "a0cb6589a9a1ce11a5e4a8a91102c6f6b34d0149"
+    },
+    {
+      "path": "crux_lab/cli.py",
+      "upstreamBlob": "34a421e8ce5f8460d0e0e9c3d7b564d64b12ed44"
+    },
+    {
+      "path": "crux_lab/config.py",
+      "upstreamBlob": "9b06cf9bf543f34ecee3ef701e75d6039dde5c2b"
+    },
+    {
+      "path": "crux_lab/corpus/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/corpus/build.py",
+      "upstreamBlob": "a3165e87cf08934bbc6d34c7a2ed650fa8b4f5a8"
+    },
+    {
+      "path": "crux_lab/corpus/dedup.py",
+      "upstreamBlob": "1c35cb932f657ec3b0eb1cad3a81b983e7ae28c0"
+    },
+    {
+      "path": "crux_lab/corpus/http.py",
+      "upstreamBlob": "dcde272b99ff80bd5fb5683666c997c5237fcebb"
+    },
+    {
+      "path": "crux_lab/corpus/openalex.py",
+      "upstreamBlob": "2033f8d4a2156a9de5ee9d1d37785c3be4e0deac"
+    },
+    {
+      "path": "crux_lab/corpus/pdf.py",
+      "upstreamBlob": "ae03455b6c983564f54d95e9ddabba9c3610da8c"
+    },
+    {
+      "path": "crux_lab/corpus/philarchive_oai.py",
+      "upstreamBlob": "abc3518828039cac3700cb47ccd6dd598b45353d"
+    },
+    {
+      "path": "crux_lab/corpus/targets.py",
+      "upstreamBlob": "c707788ff3b8ef1dc6fc6f273ba47f5bc691c209"
+    },
+    {
+      "path": "crux_lab/databricks_sync.py",
+      "upstreamBlob": "64d12dbc32dba8c19313f58b210d2b436a82c09c"
+    },
+    {
+      "path": "crux_lab/eval/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/eval/common.py",
+      "upstreamBlob": "341b81dc17a57c886a6a5c0e45ce1626c5ccbd04"
+    },
+    {
+      "path": "crux_lab/eval/e1_prior_art.py",
+      "upstreamBlob": "4a5421f11e900c1fca63f41991573f9bdab7bd2f"
+    },
+    {
+      "path": "crux_lab/eval/e2_calibration.py",
+      "upstreamBlob": "407de4dcbaf1bf59bbccb5c0490dd6418b1a7b3f"
+    },
+    {
+      "path": "crux_lab/eval/e3_diversity.py",
+      "upstreamBlob": "10bbd1d69b96f3affe0ce3adf6cd69d80224466b"
+    },
+    {
+      "path": "crux_lab/eval/fixtures/schellenberg.json",
+      "upstreamBlob": "045f63348f0a02033943cb614cad08741570544b"
+    },
+    {
+      "path": "crux_lab/eval/run_all.py",
+      "upstreamBlob": "f16f6b318bbcaac281393d10e510044236a046ed"
+    },
+    {
+      "path": "crux_lab/export.py",
+      "upstreamBlob": "b01fb8e36190d6185b66aa7e9fe93789dc751888"
+    },
+    {
+      "path": "crux_lab/graph/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/graph/build.py",
+      "upstreamBlob": "9e9f4e5f074b182c89adeaf835937da503c61481"
+    },
+    {
+      "path": "crux_lab/graph/extract.py",
+      "upstreamBlob": "4fe8ef476528b8109a7913dc0380938bbdf948a5"
+    },
+    {
+      "path": "crux_lab/graph/formalize.py",
+      "upstreamBlob": "45656937c42d3104753be332cdfdd8a3cb21defc"
+    },
+    {
+      "path": "crux_lab/graph/index.py",
+      "upstreamBlob": "d487b002a37cc7e4deadbce2535f2b299b9e7b12"
+    },
+    {
+      "path": "crux_lab/graph/logic.py",
+      "upstreamBlob": "763775ecdb9d0111cb878713333f48e582f4e39f"
+    },
+    {
+      "path": "crux_lab/graph/schema.py",
+      "upstreamBlob": "3b4b55a87b2d3535c648da91c38d13f905796d9e"
+    },
+    {
+      "path": "crux_lab/graph/store.py",
+      "upstreamBlob": "1e5e6cacc908a1ea53366e0437d4a2349baddf43"
+    },
+    {
+      "path": "crux_lab/lab/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/lab/aporia_profiles.py",
+      "upstreamBlob": "b0cb0753c8527d4d9ea1042da5dff23c4df6dacf"
+    },
+    {
+      "path": "crux_lab/lab/assess.py",
+      "upstreamBlob": "b887d4000caa62a2ad8a6406a7a8cdbaecd5eb0b"
+    },
+    {
+      "path": "crux_lab/lab/bridge.py",
+      "upstreamBlob": "e0a35b6026daa16517d11bcac03a46d12c73eeca"
+    },
+    {
+      "path": "crux_lab/lab/brief.py",
+      "upstreamBlob": "78973c39ad04dc71a01b3ee0608aa2b8251dc3a4"
+    },
+    {
+      "path": "crux_lab/lab/cognition.py",
+      "upstreamBlob": "a4b07db0245d815c32e6560851bff4c29da2870d"
+    },
+    {
+      "path": "crux_lab/lab/debate.py",
+      "upstreamBlob": "e3184766d63932eac4be85dad927cf21cfc4db76"
+    },
+    {
+      "path": "crux_lab/lab/director.py",
+      "upstreamBlob": "34d67dac63c0e3d3d0584418958989b6c2005f91"
+    },
+    {
+      "path": "crux_lab/lab/gauntlet.py",
+      "upstreamBlob": "f726dc142de92b2c17b3516bb372dbf67d07bbd9"
+    },
+    {
+      "path": "crux_lab/lab/generators.py",
+      "upstreamBlob": "d822f0985671fe30f74356b9ed11f986de8df3bc"
+    },
+    {
+      "path": "crux_lab/lab/novelty.py",
+      "upstreamBlob": "cc971445900d2fbeac3f9f3b432b25a4bd72fd78"
+    },
+    {
+      "path": "crux_lab/lab/run.py",
+      "upstreamBlob": "29046f8723c8c6b10e8cc3b3bc4e198499d611aa"
+    },
+    {
+      "path": "crux_lab/llm/__init__.py",
+      "upstreamBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "crux_lab/llm/budget.py",
+      "upstreamBlob": "33548193d7f9e85cde1a8203accdb73bb9b68a82"
+    },
+    {
+      "path": "crux_lab/llm/cache.py",
+      "upstreamBlob": "716231e0c1c58506174dd679a33ef57de5ab12c3"
+    },
+    {
+      "path": "crux_lab/llm/client.py",
+      "upstreamBlob": "dbb16a9efe62cfbd48b780c1594c0e5361c0c6ec"
+    },
+    {
+      "path": "crux_lab/llm/providers.py",
+      "upstreamBlob": "8c524452283eee4a478b1c288505e5a3fc5859e5"
+    },
+    {
+      "path": "crux_lab/llm/resolve.py",
+      "upstreamBlob": "51416602e4c10ea18357fdf1f6c1128c6d86e65c"
+    },
+    {
+      "path": "crux_lab/llm/tracing.py",
+      "upstreamBlob": "e9f3f4a8dd69dd2295ecdc2273886583d0688761"
+    }
+  ]
+}

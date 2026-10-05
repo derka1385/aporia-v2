@@ -1,0 +1,59 @@
+1
+00:00:00,600 --> 00:00:02,884
+For philosophy students, the hardest
+
+2
+00:00:02,884 --> 00:00:05,231
+question is often what to write next.
+
+3
+00:00:07,500 --> 00:00:09,947
+A convincing AI answer can miss a hidden
+
+4
+00:00:09,947 --> 00:00:12,149
+premise, or repeat an old objection.
+
+5
+00:00:14,500 --> 00:00:18,922
+Meet Aporia. An experimental AI lab for philosophical research.
+
+6
+00:00:20,500 --> 00:00:23,762
+It reads the literature, rebuilds arguments from source
+
+7
+00:00:23,762 --> 00:00:26,609
+quotes, and brings hidden assumptions into view.
+
+8
+00:00:28,500 --> 00:00:31,640
+Five cognitive profiles investigate the same question.
+
+9
+00:00:31,640 --> 00:00:35,769
+Delta changes their actual reasoning policies, opening different paths.
+
+10
+00:00:36,500 --> 00:00:40,626
+Objections face a prior-art check and two independent defenders.
+
+11
+00:00:40,626 --> 00:00:43,979
+A referee labels the outcome and verifies citations.
+
+12
+00:00:45,500 --> 00:00:49,614
+The Director learns what to test next. Surviving leads become ranked
+
+13
+00:00:49,614 --> 00:00:53,547
+briefs, with the strongest replies and what your paper must show.
+
+14
+00:00:54,300 --> 00:00:57,050
+Aporia. Your next research direction.
+
+15
+00:00:57,050 --> 00:00:59,353
+The final judgment stays yours.

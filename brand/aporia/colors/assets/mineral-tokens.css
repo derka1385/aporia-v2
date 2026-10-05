@@ -1,0 +1,23 @@
+/* APORIA color study: Graphite & Mineral / proposed */
+[data-aporia-theme="dark"] {
+  --aporia-bg: #10181C;
+  --aporia-surface: #18242A;
+  --aporia-text: #EDF2F1;
+  --aporia-muted: #A3B7BC;
+  --aporia-rule: #2F4248;
+  --aporia-boundary: #6E8A91;
+  --aporia-reasoning: #A1B3E0;
+  --aporia-exploration: #6BC6C5;
+  --aporia-event: #D7AE73;
+}
+[data-aporia-theme="light"] {
+  --aporia-bg: #EDF2F1;
+  --aporia-surface: #DFE7E5;
+  --aporia-text: #10181C;
+  --aporia-muted: #52666C;
+  --aporia-rule: #CCD8D5;
+  --aporia-boundary: #64797A;
+  --aporia-reasoning: #4D618D;
+  --aporia-exploration: #216667;
+  --aporia-event: #7B5B2B;
+}

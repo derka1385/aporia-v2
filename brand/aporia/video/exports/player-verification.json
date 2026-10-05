@@ -1,0 +1,41 @@
+{
+  "checks": [
+    {
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "duration": 60,
+      "width": 1920,
+      "height": 1080,
+      "controls": true,
+      "autoplay": false,
+      "brokenImages": [],
+      "captions": "exports/aporia-en.vtt"
+    },
+    {
+      "viewport": 390,
+      "documentWidth": 390,
+      "duration": 60,
+      "width": 1920,
+      "height": 1080,
+      "controls": true,
+      "autoplay": false,
+      "brokenImages": [],
+      "captions": "exports/aporia-en.vtt"
+    }
+  ],
+  "seeks": [],
+  "subtitles": {
+    "cues": 15,
+    "language": "en"
+  },
+  "playback": true,
+  "scriptErrors": [],
+  "seekVerification": "Pending final browser confirmation after adding HTTP byte-range support.",
+  "serverRestart": "Not executed: automatic approval review unavailable because of its usage limit.",
+  "verifiedChecks": [
+    "Desktop and mobile layout",
+    "60-second 1920x1080 media metadata",
+    "English caption loading",
+    "Playback"
+  ]
+}

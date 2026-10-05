@@ -1,0 +1,223 @@
+{
+  "OPS": [
+    "memory",
+    "reason",
+    "imagine",
+    "intuit",
+    "introspect",
+    "doubt",
+    "counterfactual",
+    "formalize",
+    "inquire",
+    "adjudicate",
+    "revise",
+    "conclude"
+  ],
+  "ALL_TOOLS": [
+    "literature_search",
+    "memory_search",
+    "similarity",
+    "graph_query",
+    "logic_check",
+    "theorem_prover",
+    "calculator"
+  ],
+  "TARGETS": {
+    "explorer": {
+      "weights": {
+        "imagine": 2.2,
+        "intuit": 1.8,
+        "counterfactual": 1.6,
+        "inquire": 1.6,
+        "memory": 1.2,
+        "reason": 0.6,
+        "doubt": 0.6,
+        "formalize": 0.2
+      },
+      "ctrl_temp": 0.7,
+      "explore": 0.9,
+      "llm_temp": 0.95,
+      "top_p": 0.97,
+      "branch": 4,
+      "accept": 0.45,
+      "stop_conf": 0.6,
+      "budget": 14,
+      "min_steps": 8,
+      "surprise_bonus": 4,
+      "lit_spread": 0.5,
+      "tools": [
+        "literature_search",
+        "memory_search",
+        "similarity"
+      ]
+    },
+    "formalist": {
+      "weights": {
+        "reason": 2.2,
+        "formalize": 2.6,
+        "introspect": 1.3,
+        "imagine": 0.4,
+        "intuit": 0.3,
+        "counterfactual": 0.8
+      },
+      "ctrl_temp": 0.15,
+      "explore": 0.05,
+      "llm_temp": 0.2,
+      "top_p": 0.7,
+      "branch": 1,
+      "accept": 0.8,
+      "stop_conf": 0.8,
+      "context": 20,
+      "reject_below": 0.4,
+      "learning_rate": 0.2
+    },
+    "skeptic": {
+      "weights": {
+        "doubt": 2.4,
+        "counterfactual": 2.0,
+        "adjudicate": 1.8,
+        "imagine": 0.6,
+        "intuit": 0.5,
+        "revise": 1.2
+      },
+      "objections": 4,
+      "adversarial": 1.8,
+      "min_steps": 8,
+      "stop_conf": 0.85,
+      "reject_below": 0.45,
+      "llm_temp": 0.5,
+      "explore": 0.15,
+      "ltm_k": 5,
+      "tools": [
+        "memory_search",
+        "graph_query",
+        "logic_check",
+        "similarity"
+      ]
+    },
+    "synthesizer": {
+      "weights": {
+        "memory": 2.0,
+        "revise": 1.6,
+        "intuit": 1.2,
+        "inquire": 1.4,
+        "doubt": 0.7,
+        "formalize": 0.4
+      },
+      "lit_k": 6,
+      "lit_spread": 0.8,
+      "ltm_k": 8,
+      "context": 30,
+      "llm_temp": 0.75,
+      "budget": 13,
+      "learning_rate": 0.7,
+      "explore": 0.5,
+      "ltm_scope": [
+        "shared"
+      ],
+      "tools": [
+        "literature_search",
+        "memory_search",
+        "similarity",
+        "graph_query"
+      ]
+    },
+    "minimalist": {
+      "weights": {
+        "introspect": 2.0,
+        "reason": 1.3,
+        "formalize": 1.6,
+        "imagine": 0.4,
+        "memory": 0.4,
+        "intuit": 0.5,
+        "inquire": 0.6
+      },
+      "lit_k": 0,
+      "ltm_k": 0,
+      "context": 6,
+      "branch": 1,
+      "stop_conf": 0.65,
+      "budget": 10,
+      "min_steps": 5,
+      "max_assumptions": 2,
+      "llm_temp": 0.4,
+      "explore": 0.1,
+      "tools": [
+        "graph_query",
+        "logic_check",
+        "theorem_prover",
+        "calculator"
+      ]
+    }
+  },
+  "PERSONAS": {
+    "explorer": "explore widely, branch into unusual hypotheses and thought experiments, tolerate uncertainty",
+    "formalist": "check that every step follows logically and refuse unsupported premises",
+    "skeptic": "hunt aggressively for counterexamples and ways the current belief could be wrong",
+    "synthesizer": "connect distant arguments and traditions into one coherent view",
+    "minimalist": "derive conclusions from the smallest possible set of assumptions"
+  },
+  "INTS": [
+    "branch",
+    "budget",
+    "context",
+    "lit_k",
+    "ltm_k",
+    "max_assumptions",
+    "min_steps",
+    "objections",
+    "surprise_bonus"
+  ],
+  "BASE": {
+    "weights": {
+      "memory": 1.0,
+      "reason": 1.0,
+      "imagine": 1.0,
+      "intuit": 1.0,
+      "introspect": 1.0,
+      "doubt": 1.0,
+      "counterfactual": 1.0,
+      "formalize": 1.0,
+      "inquire": 1.0,
+      "adjudicate": 1.0,
+      "revise": 1.0,
+      "conclude": 1.0
+    },
+    "ctrl_temp": 0.35,
+    "explore": 0.25,
+    "learning_rate": 0.4,
+    "llm_temp": 0.6,
+    "top_p": 0.9,
+    "context": 12,
+    "lit_k": 3,
+    "lit_spread": 0,
+    "ltm_k": 3,
+    "branch": 2,
+    "objections": 2,
+    "adversarial": 1,
+    "accept": 0.6,
+    "stop_conf": 0.7,
+    "budget": 12,
+    "min_steps": 6,
+    "surprise_bonus": 2,
+    "max_assumptions": 8,
+    "reject_below": 0.3,
+    "tools": [
+      "literature_search",
+      "memory_search",
+      "similarity",
+      "graph_query",
+      "logic_check",
+      "theorem_prover",
+      "calculator"
+    ],
+    "ltm_scope": [
+      "own"
+    ]
+  },
+  "source": {
+    "repository": "https://github.com/derka1385/APORIA",
+    "commit": "d45ef58f19a2dd3ae0a8195b1b01763348b2084a",
+    "path": "lab/profiles.py"
+  }
+}

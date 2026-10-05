@@ -1,0 +1,1288 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-05T08:30:22Z",
+  "title": "Design System: Aproria",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "neutral",
+        "displayName": "Bg",
+        "tonalRamp": [
+          "oklch(15% 0.0120 259.70)",
+          "oklch(26% 0.0120 259.70)",
+          "oklch(38% 0.0120 259.70)",
+          "oklch(49% 0.0120 259.70)",
+          "oklch(61% 0.0120 259.70)",
+          "oklch(72% 0.0120 259.70)",
+          "oklch(84% 0.0120 259.70)",
+          "oklch(95% 0.0120 259.70)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0186 255.74)",
+          "oklch(26% 0.0186 255.74)",
+          "oklch(38% 0.0186 255.74)",
+          "oklch(49% 0.0186 255.74)",
+          "oklch(61% 0.0186 255.74)",
+          "oklch(72% 0.0186 255.74)",
+          "oklch(84% 0.0186 255.74)",
+          "oklch(95% 0.0186 255.74)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0140 258.35)",
+          "oklch(26% 0.0140 258.35)",
+          "oklch(38% 0.0140 258.35)",
+          "oklch(49% 0.0140 258.35)",
+          "oklch(61% 0.0140 258.35)",
+          "oklch(72% 0.0140 258.35)",
+          "oklch(84% 0.0140 258.35)",
+          "oklch(95% 0.0140 258.35)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0315 253.02)",
+          "oklch(26% 0.0315 253.02)",
+          "oklch(38% 0.0315 253.02)",
+          "oklch(49% 0.0315 253.02)",
+          "oklch(61% 0.0315 253.02)",
+          "oklch(72% 0.0315 253.02)",
+          "oklch(84% 0.0315 253.02)",
+          "oklch(95% 0.0315 253.02)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.0280 252.91)",
+          "oklch(26% 0.0280 252.91)",
+          "oklch(38% 0.0280 252.91)",
+          "oklch(49% 0.0280 252.91)",
+          "oklch(61% 0.0280 252.91)",
+          "oklch(72% 0.0280 252.91)",
+          "oklch(84% 0.0280 252.91)",
+          "oklch(95% 0.0280 252.91)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Accent",
+        "tonalRamp": [
+          "oklch(15% 0.0476 234.49)",
+          "oklch(26% 0.0476 234.49)",
+          "oklch(38% 0.0476 234.49)",
+          "oklch(49% 0.0476 234.49)",
+          "oklch(61% 0.0476 234.49)",
+          "oklch(72% 0.0476 234.49)",
+          "oklch(84% 0.0476 234.49)",
+          "oklch(95% 0.0476 234.49)"
+        ]
+      },
+      "warm": {
+        "role": "tertiary",
+        "displayName": "Warm",
+        "tonalRamp": [
+          "oklch(15% 0.0910 54.09)",
+          "oklch(26% 0.0910 54.09)",
+          "oklch(38% 0.0910 54.09)",
+          "oklch(49% 0.0910 54.09)",
+          "oklch(61% 0.0910 54.09)",
+          "oklch(72% 0.0910 54.09)",
+          "oklch(84% 0.0910 54.09)",
+          "oklch(95% 0.0910 54.09)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.0591 231.12)",
+          "oklch(26% 0.0591 231.12)",
+          "oklch(38% 0.0591 231.12)",
+          "oklch(49% 0.0591 231.12)",
+          "oklch(61% 0.0591 231.12)",
+          "oklch(72% 0.0591 231.12)",
+          "oklch(84% 0.0591 231.12)",
+          "oklch(95% 0.0591 231.12)"
+        ]
+      },
+      "chrome-line": {
+        "role": "neutral",
+        "displayName": "Chrome Line",
+        "tonalRamp": [
+          "oklch(15% 0.0266 255.78)",
+          "oklch(26% 0.0266 255.78)",
+          "oklch(38% 0.0266 255.78)",
+          "oklch(49% 0.0266 255.78)",
+          "oklch(61% 0.0266 255.78)",
+          "oklch(72% 0.0266 255.78)",
+          "oklch(84% 0.0266 255.78)",
+          "oklch(95% 0.0266 255.78)"
+        ]
+      },
+      "action-bg": {
+        "role": "neutral",
+        "displayName": "Action Bg",
+        "tonalRamp": [
+          "oklch(15% 0.0307 235.70)",
+          "oklch(26% 0.0307 235.70)",
+          "oklch(38% 0.0307 235.70)",
+          "oklch(49% 0.0307 235.70)",
+          "oklch(61% 0.0307 235.70)",
+          "oklch(72% 0.0307 235.70)",
+          "oklch(84% 0.0307 235.70)",
+          "oklch(95% 0.0307 235.70)"
+        ]
+      },
+      "action-ink": {
+        "role": "neutral",
+        "displayName": "Action Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0268 249.12)",
+          "oklch(26% 0.0268 249.12)",
+          "oklch(38% 0.0268 249.12)",
+          "oklch(49% 0.0268 249.12)",
+          "oklch(61% 0.0268 249.12)",
+          "oklch(72% 0.0268 249.12)",
+          "oklch(84% 0.0268 249.12)",
+          "oklch(95% 0.0268 249.12)"
+        ]
+      },
+      "action-hover": {
+        "role": "neutral",
+        "displayName": "Action Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0176 234.51)",
+          "oklch(26% 0.0176 234.51)",
+          "oklch(38% 0.0176 234.51)",
+          "oklch(49% 0.0176 234.51)",
+          "oklch(61% 0.0176 234.51)",
+          "oklch(72% 0.0176 234.51)",
+          "oklch(84% 0.0176 234.51)",
+          "oklch(95% 0.0176 234.51)"
+        ]
+      },
+      "action-disabled": {
+        "role": "neutral",
+        "displayName": "Action Disabled",
+        "tonalRamp": [
+          "oklch(15% 0.0297 237.92)",
+          "oklch(26% 0.0297 237.92)",
+          "oklch(38% 0.0297 237.92)",
+          "oklch(49% 0.0297 237.92)",
+          "oklch(61% 0.0297 237.92)",
+          "oklch(72% 0.0297 237.92)",
+          "oklch(84% 0.0297 237.92)",
+          "oklch(95% 0.0297 237.92)"
+        ]
+      },
+      "field-line": {
+        "role": "neutral",
+        "displayName": "Field Line",
+        "tonalRamp": [
+          "oklch(15% 0.0336 250.36)",
+          "oklch(26% 0.0336 250.36)",
+          "oklch(38% 0.0336 250.36)",
+          "oklch(49% 0.0336 250.36)",
+          "oklch(61% 0.0336 250.36)",
+          "oklch(72% 0.0336 250.36)",
+          "oklch(84% 0.0336 250.36)",
+          "oklch(95% 0.0336 250.36)"
+        ]
+      },
+      "field-focus": {
+        "role": "neutral",
+        "displayName": "Field Focus",
+        "tonalRamp": [
+          "oklch(15% 0.0592 239.11)",
+          "oklch(26% 0.0592 239.11)",
+          "oklch(38% 0.0592 239.11)",
+          "oklch(49% 0.0592 239.11)",
+          "oklch(61% 0.0592 239.11)",
+          "oklch(72% 0.0592 239.11)",
+          "oklch(84% 0.0592 239.11)",
+          "oklch(95% 0.0592 239.11)"
+        ]
+      },
+      "quiet-ink": {
+        "role": "neutral",
+        "displayName": "Quiet Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0307 253.00)",
+          "oklch(26% 0.0307 253.00)",
+          "oklch(38% 0.0307 253.00)",
+          "oklch(49% 0.0307 253.00)",
+          "oklch(61% 0.0307 253.00)",
+          "oklch(72% 0.0307 253.00)",
+          "oklch(84% 0.0307 253.00)",
+          "oklch(95% 0.0307 253.00)"
+        ]
+      },
+      "quiet-hover": {
+        "role": "neutral",
+        "displayName": "Quiet Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0110 243.65)",
+          "oklch(26% 0.0110 243.65)",
+          "oklch(38% 0.0110 243.65)",
+          "oklch(49% 0.0110 243.65)",
+          "oklch(61% 0.0110 243.65)",
+          "oklch(72% 0.0110 243.65)",
+          "oklch(84% 0.0110 243.65)",
+          "oklch(95% 0.0110 243.65)"
+        ]
+      },
+      "nav-ink": {
+        "role": "neutral",
+        "displayName": "Nav Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0298 253.32)",
+          "oklch(26% 0.0298 253.32)",
+          "oklch(38% 0.0298 253.32)",
+          "oklch(49% 0.0298 253.32)",
+          "oklch(61% 0.0298 253.32)",
+          "oklch(72% 0.0298 253.32)",
+          "oklch(84% 0.0298 253.32)",
+          "oklch(95% 0.0298 253.32)"
+        ]
+      },
+      "nav-active": {
+        "role": "neutral",
+        "displayName": "Nav Active",
+        "tonalRamp": [
+          "oklch(15% 0.0180 245.40)",
+          "oklch(26% 0.0180 245.40)",
+          "oklch(38% 0.0180 245.40)",
+          "oklch(49% 0.0180 245.40)",
+          "oklch(61% 0.0180 245.40)",
+          "oklch(72% 0.0180 245.40)",
+          "oklch(84% 0.0180 245.40)",
+          "oklch(95% 0.0180 245.40)"
+        ]
+      },
+      "nav-line": {
+        "role": "neutral",
+        "displayName": "Nav Line",
+        "tonalRamp": [
+          "oklch(15% 0.0527 244.03)",
+          "oklch(26% 0.0527 244.03)",
+          "oklch(38% 0.0527 244.03)",
+          "oklch(49% 0.0527 244.03)",
+          "oklch(61% 0.0527 244.03)",
+          "oklch(72% 0.0527 244.03)",
+          "oklch(84% 0.0527 244.03)",
+          "oklch(95% 0.0527 244.03)"
+        ]
+      },
+      "mode-ink": {
+        "role": "neutral",
+        "displayName": "Mode Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0341 249.72)",
+          "oklch(26% 0.0341 249.72)",
+          "oklch(38% 0.0341 249.72)",
+          "oklch(49% 0.0341 249.72)",
+          "oklch(61% 0.0341 249.72)",
+          "oklch(72% 0.0341 249.72)",
+          "oklch(84% 0.0341 249.72)",
+          "oklch(95% 0.0341 249.72)"
+        ]
+      },
+      "mode-selected": {
+        "role": "neutral",
+        "displayName": "Mode Selected",
+        "tonalRamp": [
+          "oklch(15% 0.0303 251.11)",
+          "oklch(26% 0.0303 251.11)",
+          "oklch(38% 0.0303 251.11)",
+          "oklch(49% 0.0303 251.11)",
+          "oklch(61% 0.0303 251.11)",
+          "oklch(72% 0.0303 251.11)",
+          "oklch(84% 0.0303 251.11)",
+          "oklch(95% 0.0303 251.11)"
+        ]
+      },
+      "mode-line": {
+        "role": "neutral",
+        "displayName": "Mode Line",
+        "tonalRamp": [
+          "oklch(15% 0.0451 247.89)",
+          "oklch(26% 0.0451 247.89)",
+          "oklch(38% 0.0451 247.89)",
+          "oklch(49% 0.0451 247.89)",
+          "oklch(61% 0.0451 247.89)",
+          "oklch(72% 0.0451 247.89)",
+          "oklch(84% 0.0451 247.89)",
+          "oklch(95% 0.0451 247.89)"
+        ]
+      },
+      "mode-active-ink": {
+        "role": "neutral",
+        "displayName": "Mode Active Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0265 242.76)",
+          "oklch(26% 0.0265 242.76)",
+          "oklch(38% 0.0265 242.76)",
+          "oklch(49% 0.0265 242.76)",
+          "oklch(61% 0.0265 242.76)",
+          "oklch(72% 0.0265 242.76)",
+          "oklch(84% 0.0265 242.76)",
+          "oklch(95% 0.0265 242.76)"
+        ]
+      },
+      "mode-hover": {
+        "role": "neutral",
+        "displayName": "Mode Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0262 251.40)",
+          "oklch(26% 0.0262 251.40)",
+          "oklch(38% 0.0262 251.40)",
+          "oklch(49% 0.0262 251.40)",
+          "oklch(61% 0.0262 251.40)",
+          "oklch(72% 0.0262 251.40)",
+          "oklch(84% 0.0262 251.40)",
+          "oklch(95% 0.0262 251.40)"
+        ]
+      },
+      "archive-bg": {
+        "role": "neutral",
+        "displayName": "Archive Bg",
+        "tonalRamp": [
+          "oklch(15% 0.0212 254.96)",
+          "oklch(26% 0.0212 254.96)",
+          "oklch(38% 0.0212 254.96)",
+          "oklch(49% 0.0212 254.96)",
+          "oklch(61% 0.0212 254.96)",
+          "oklch(72% 0.0212 254.96)",
+          "oklch(84% 0.0212 254.96)",
+          "oklch(95% 0.0212 254.96)"
+        ]
+      },
+      "confidence": {
+        "role": "primary",
+        "displayName": "Confidence",
+        "tonalRamp": [
+          "oklch(15% 0.0635 222.48)",
+          "oklch(26% 0.0635 222.48)",
+          "oklch(38% 0.0635 222.48)",
+          "oklch(49% 0.0635 222.48)",
+          "oklch(61% 0.0635 222.48)",
+          "oklch(72% 0.0635 222.48)",
+          "oklch(84% 0.0635 222.48)",
+          "oklch(95% 0.0635 222.48)"
+        ]
+      },
+      "uncertainty": {
+        "role": "secondary",
+        "displayName": "Uncertainty",
+        "tonalRamp": [
+          "oklch(15% 0.0703 300.92)",
+          "oklch(26% 0.0703 300.92)",
+          "oklch(38% 0.0703 300.92)",
+          "oklch(49% 0.0703 300.92)",
+          "oklch(61% 0.0703 300.92)",
+          "oklch(72% 0.0703 300.92)",
+          "oklch(84% 0.0703 300.92)",
+          "oklch(95% 0.0703 300.92)"
+        ]
+      },
+      "graph-hypothesis": {
+        "role": "primary",
+        "displayName": "Graph Hypothesis",
+        "tonalRamp": [
+          "oklch(15% 0.0420 243.82)",
+          "oklch(26% 0.0420 243.82)",
+          "oklch(38% 0.0420 243.82)",
+          "oklch(49% 0.0420 243.82)",
+          "oklch(61% 0.0420 243.82)",
+          "oklch(72% 0.0420 243.82)",
+          "oklch(84% 0.0420 243.82)",
+          "oklch(95% 0.0420 243.82)"
+        ]
+      },
+      "graph-premise": {
+        "role": "primary",
+        "displayName": "Graph Premise",
+        "tonalRamp": [
+          "oklch(15% 0.0729 246.43)",
+          "oklch(26% 0.0729 246.43)",
+          "oklch(38% 0.0729 246.43)",
+          "oklch(49% 0.0729 246.43)",
+          "oklch(61% 0.0729 246.43)",
+          "oklch(72% 0.0729 246.43)",
+          "oklch(84% 0.0729 246.43)",
+          "oklch(95% 0.0729 246.43)"
+        ]
+      },
+      "graph-assumption": {
+        "role": "secondary",
+        "displayName": "Graph Assumption",
+        "tonalRamp": [
+          "oklch(15% 0.0784 297.19)",
+          "oklch(26% 0.0784 297.19)",
+          "oklch(38% 0.0784 297.19)",
+          "oklch(49% 0.0784 297.19)",
+          "oklch(61% 0.0784 297.19)",
+          "oklch(72% 0.0784 297.19)",
+          "oklch(84% 0.0784 297.19)",
+          "oklch(95% 0.0784 297.19)"
+        ]
+      },
+      "graph-counterexample": {
+        "role": "tertiary",
+        "displayName": "Graph Counterexample",
+        "tonalRamp": [
+          "oklch(15% 0.0868 68.24)",
+          "oklch(26% 0.0868 68.24)",
+          "oklch(38% 0.0868 68.24)",
+          "oklch(49% 0.0868 68.24)",
+          "oklch(61% 0.0868 68.24)",
+          "oklch(72% 0.0868 68.24)",
+          "oklch(84% 0.0868 68.24)",
+          "oklch(95% 0.0868 68.24)"
+        ]
+      },
+      "graph-objection": {
+        "role": "tertiary",
+        "displayName": "Graph Objection",
+        "tonalRamp": [
+          "oklch(15% 0.1075 45.36)",
+          "oklch(26% 0.1075 45.36)",
+          "oklch(38% 0.1075 45.36)",
+          "oklch(49% 0.1075 45.36)",
+          "oklch(61% 0.1075 45.36)",
+          "oklch(72% 0.1075 45.36)",
+          "oklch(84% 0.1075 45.36)",
+          "oklch(95% 0.1075 45.36)"
+        ]
+      },
+      "graph-evidence": {
+        "role": "primary",
+        "displayName": "Graph Evidence",
+        "tonalRamp": [
+          "oklch(15% 0.0614 181.20)",
+          "oklch(26% 0.0614 181.20)",
+          "oklch(38% 0.0614 181.20)",
+          "oklch(49% 0.0614 181.20)",
+          "oklch(61% 0.0614 181.20)",
+          "oklch(72% 0.0614 181.20)",
+          "oklch(84% 0.0614 181.20)",
+          "oklch(95% 0.0614 181.20)"
+        ]
+      },
+      "graph-question": {
+        "role": "primary",
+        "displayName": "Graph Question",
+        "tonalRamp": [
+          "oklch(15% 0.0371 229.56)",
+          "oklch(26% 0.0371 229.56)",
+          "oklch(38% 0.0371 229.56)",
+          "oklch(49% 0.0371 229.56)",
+          "oklch(61% 0.0371 229.56)",
+          "oklch(72% 0.0371 229.56)",
+          "oklch(84% 0.0371 229.56)",
+          "oklch(95% 0.0371 229.56)"
+        ]
+      },
+      "particle-blue": {
+        "role": "primary",
+        "displayName": "Particle Blue",
+        "tonalRamp": [
+          "oklch(15% 0.1307 263.36)",
+          "oklch(26% 0.1307 263.36)",
+          "oklch(38% 0.1307 263.36)",
+          "oklch(49% 0.1307 263.36)",
+          "oklch(61% 0.1307 263.36)",
+          "oklch(72% 0.1307 263.36)",
+          "oklch(84% 0.1307 263.36)",
+          "oklch(95% 0.1307 263.36)"
+        ]
+      },
+      "particle-cyan": {
+        "role": "primary",
+        "displayName": "Particle Cyan",
+        "tonalRamp": [
+          "oklch(15% 0.0891 222.24)",
+          "oklch(26% 0.0891 222.24)",
+          "oklch(38% 0.0891 222.24)",
+          "oklch(49% 0.0891 222.24)",
+          "oklch(61% 0.0891 222.24)",
+          "oklch(72% 0.0891 222.24)",
+          "oklch(84% 0.0891 222.24)",
+          "oklch(95% 0.0891 222.24)"
+        ]
+      },
+      "particle-violet": {
+        "role": "secondary",
+        "displayName": "Particle Violet",
+        "tonalRamp": [
+          "oklch(15% 0.1316 294.26)",
+          "oklch(26% 0.1316 294.26)",
+          "oklch(38% 0.1316 294.26)",
+          "oklch(49% 0.1316 294.26)",
+          "oklch(61% 0.1316 294.26)",
+          "oklch(72% 0.1316 294.26)",
+          "oklch(84% 0.1316 294.26)",
+          "oklch(95% 0.1316 294.26)"
+        ]
+      },
+      "particle-conflict": {
+        "role": "tertiary",
+        "displayName": "Particle Conflict",
+        "tonalRamp": [
+          "oklch(15% 0.1499 47.71)",
+          "oklch(26% 0.1499 47.71)",
+          "oklch(38% 0.1499 47.71)",
+          "oklch(49% 0.1499 47.71)",
+          "oklch(61% 0.1499 47.71)",
+          "oklch(72% 0.1499 47.71)",
+          "oklch(84% 0.1499 47.71)",
+          "oklch(95% 0.1499 47.71)"
+        ]
+      },
+      "particle-insight": {
+        "role": "tertiary",
+        "displayName": "Particle Insight",
+        "tonalRamp": [
+          "oklch(15% 0.0214 225.25)",
+          "oklch(26% 0.0214 225.25)",
+          "oklch(38% 0.0214 225.25)",
+          "oklch(49% 0.0214 225.25)",
+          "oklch(61% 0.0214 225.25)",
+          "oklch(72% 0.0214 225.25)",
+          "oklch(84% 0.0214 225.25)",
+          "oklch(95% 0.0214 225.25)"
+        ]
+      },
+      "landing-obsidian": {
+        "role": "neutral",
+        "displayName": "Landing Obsidian",
+        "tonalRamp": [
+          "oklch(15% 0.0051 248.10)",
+          "oklch(26% 0.0051 248.10)",
+          "oklch(38% 0.0051 248.10)",
+          "oklch(49% 0.0051 248.10)",
+          "oklch(61% 0.0051 248.10)",
+          "oklch(72% 0.0051 248.10)",
+          "oklch(84% 0.0051 248.10)",
+          "oklch(95% 0.0051 248.10)"
+        ]
+      },
+      "landing-surface": {
+        "role": "neutral",
+        "displayName": "Landing Selected Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0097 248.24)",
+          "oklch(26% 0.0097 248.24)",
+          "oklch(38% 0.0097 248.24)",
+          "oklch(49% 0.0097 248.24)",
+          "oklch(61% 0.0097 248.24)",
+          "oklch(72% 0.0097 248.24)",
+          "oklch(84% 0.0097 248.24)",
+          "oklch(95% 0.0097 248.24)"
+        ]
+      },
+      "landing-paper": {
+        "role": "neutral",
+        "displayName": "Landing Warm Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0111 89.72)",
+          "oklch(26% 0.0111 89.72)",
+          "oklch(38% 0.0111 89.72)",
+          "oklch(49% 0.0111 89.72)",
+          "oklch(61% 0.0111 89.72)",
+          "oklch(72% 0.0111 89.72)",
+          "oklch(84% 0.0111 89.72)",
+          "oklch(95% 0.0111 89.72)"
+        ]
+      },
+      "landing-muted": {
+        "role": "neutral",
+        "displayName": "Landing Muted Text on Obsidian",
+        "tonalRamp": [
+          "oklch(15% 0.0126 247.99)",
+          "oklch(26% 0.0126 247.99)",
+          "oklch(38% 0.0126 247.99)",
+          "oklch(49% 0.0126 247.99)",
+          "oklch(61% 0.0126 247.99)",
+          "oklch(72% 0.0126 247.99)",
+          "oklch(84% 0.0126 247.99)",
+          "oklch(95% 0.0126 247.99)"
+        ]
+      },
+      "landing-rule": {
+        "role": "neutral",
+        "displayName": "Landing Rule on Obsidian",
+        "tonalRamp": [
+          "oklch(15% 0.0147 252.29)",
+          "oklch(26% 0.0147 252.29)",
+          "oklch(38% 0.0147 252.29)",
+          "oklch(49% 0.0147 252.29)",
+          "oklch(61% 0.0147 252.29)",
+          "oklch(72% 0.0147 252.29)",
+          "oklch(84% 0.0147 252.29)",
+          "oklch(95% 0.0147 252.29)"
+        ]
+      },
+      "landing-boundary": {
+        "role": "neutral",
+        "displayName": "Landing Boundary on Obsidian",
+        "tonalRamp": [
+          "oklch(15% 0.0194 248.16)",
+          "oklch(26% 0.0194 248.16)",
+          "oklch(38% 0.0194 248.16)",
+          "oklch(49% 0.0194 248.16)",
+          "oklch(61% 0.0194 248.16)",
+          "oklch(72% 0.0194 248.16)",
+          "oklch(84% 0.0194 248.16)",
+          "oklch(95% 0.0194 248.16)"
+        ]
+      },
+      "landing-iris": {
+        "role": "primary",
+        "displayName": "Landing Reasoning Iris",
+        "tonalRamp": [
+          "oklch(15% 0.1011 297.71)",
+          "oklch(26% 0.1011 297.71)",
+          "oklch(38% 0.1011 297.71)",
+          "oklch(49% 0.1011 297.71)",
+          "oklch(61% 0.1011 297.71)",
+          "oklch(72% 0.1011 297.71)",
+          "oklch(84% 0.1011 297.71)",
+          "oklch(95% 0.1011 297.71)"
+        ]
+      },
+      "landing-cyan": {
+        "role": "secondary",
+        "displayName": "Landing Exploration Cyan",
+        "tonalRamp": [
+          "oklch(15% 0.0766 206.41)",
+          "oklch(26% 0.0766 206.41)",
+          "oklch(38% 0.0766 206.41)",
+          "oklch(49% 0.0766 206.41)",
+          "oklch(61% 0.0766 206.41)",
+          "oklch(72% 0.0766 206.41)",
+          "oklch(84% 0.0766 206.41)",
+          "oklch(95% 0.0766 206.41)"
+        ]
+      },
+      "landing-amber": {
+        "role": "tertiary",
+        "displayName": "Landing Conflict Amber",
+        "tonalRamp": [
+          "oklch(15% 0.1019 78.04)",
+          "oklch(26% 0.1019 78.04)",
+          "oklch(38% 0.1019 78.04)",
+          "oklch(49% 0.1019 78.04)",
+          "oklch(61% 0.1019 78.04)",
+          "oklch(72% 0.1019 78.04)",
+          "oklch(84% 0.1019 78.04)",
+          "oklch(95% 0.1019 78.04)"
+        ]
+      },
+      "landing-paper-muted": {
+        "role": "neutral",
+        "displayName": "Landing Muted Text on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0150 244.47)",
+          "oklch(26% 0.0150 244.47)",
+          "oklch(38% 0.0150 244.47)",
+          "oklch(49% 0.0150 244.47)",
+          "oklch(61% 0.0150 244.47)",
+          "oklch(72% 0.0150 244.47)",
+          "oklch(84% 0.0150 244.47)",
+          "oklch(95% 0.0150 244.47)"
+        ]
+      },
+      "landing-paper-rule": {
+        "role": "neutral",
+        "displayName": "Landing Rule on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0144 88.70)",
+          "oklch(26% 0.0144 88.70)",
+          "oklch(38% 0.0144 88.70)",
+          "oklch(49% 0.0144 88.70)",
+          "oklch(61% 0.0144 88.70)",
+          "oklch(72% 0.0144 88.70)",
+          "oklch(84% 0.0144 88.70)",
+          "oklch(95% 0.0144 88.70)"
+        ]
+      },
+      "landing-paper-boundary": {
+        "role": "neutral",
+        "displayName": "Landing Boundary on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0112 87.51)",
+          "oklch(26% 0.0112 87.51)",
+          "oklch(38% 0.0112 87.51)",
+          "oklch(49% 0.0112 87.51)",
+          "oklch(61% 0.0112 87.51)",
+          "oklch(72% 0.0112 87.51)",
+          "oklch(84% 0.0112 87.51)",
+          "oklch(95% 0.0112 87.51)"
+        ]
+      },
+      "landing-paper-iris": {
+        "role": "primary",
+        "displayName": "Landing Reasoning Iris on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.1164 294.78)",
+          "oklch(26% 0.1164 294.78)",
+          "oklch(38% 0.1164 294.78)",
+          "oklch(49% 0.1164 294.78)",
+          "oklch(61% 0.1164 294.78)",
+          "oklch(72% 0.1164 294.78)",
+          "oklch(84% 0.1164 294.78)",
+          "oklch(95% 0.1164 294.78)"
+        ]
+      },
+      "landing-paper-cyan": {
+        "role": "secondary",
+        "displayName": "Landing Exploration Cyan on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0647 208.26)",
+          "oklch(26% 0.0647 208.26)",
+          "oklch(38% 0.0647 208.26)",
+          "oklch(49% 0.0647 208.26)",
+          "oklch(61% 0.0647 208.26)",
+          "oklch(72% 0.0647 208.26)",
+          "oklch(84% 0.0647 208.26)",
+          "oklch(95% 0.0647 208.26)"
+        ]
+      },
+      "landing-paper-amber": {
+        "role": "tertiary",
+        "displayName": "Landing Conflict Amber on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0872 74.77)",
+          "oklch(26% 0.0872 74.77)",
+          "oklch(38% 0.0872 74.77)",
+          "oklch(49% 0.0872 74.77)",
+          "oklch(61% 0.0872 74.77)",
+          "oklch(72% 0.0872 74.77)",
+          "oklch(84% 0.0872 74.77)",
+          "oklch(95% 0.0872 74.77)"
+        ]
+      },
+      "landing-paper-hover": {
+        "role": "neutral",
+        "displayName": "Landing Policy Hover on Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0141 88.69)",
+          "oklch(26% 0.0141 88.69)",
+          "oklch(38% 0.0141 88.69)",
+          "oklch(49% 0.0141 88.69)",
+          "oklch(61% 0.0141 88.69)",
+          "oklch(72% 0.0141 88.69)",
+          "oklch(84% 0.0141 88.69)",
+          "oklch(95% 0.0141 88.69)"
+        ]
+      },
+      "landing-action-hover": {
+        "role": "neutral",
+        "displayName": "Landing Pale Action Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0192 83.06)",
+          "oklch(26% 0.0192 83.06)",
+          "oklch(38% 0.0192 83.06)",
+          "oklch(49% 0.0192 83.06)",
+          "oklch(61% 0.0192 83.06)",
+          "oklch(72% 0.0192 83.06)",
+          "oklch(84% 0.0192 83.06)",
+          "oklch(95% 0.0192 83.06)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero introduction; italic uses the bundled Newsreader italic font."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Laboratory section heading."
+      },
+      "inquiry": {
+        "displayName": "Inquiry",
+        "purpose": "Question prompt."
+      },
+      "position": {
+        "displayName": "Position",
+        "purpose": "Provisional profile position."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Research prose; not a universal body font size."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Small controls and state readouts."
+      },
+      "control": {
+        "displayName": "Control",
+        "purpose": "Standard compact text actions."
+      },
+      "micro": {
+        "displayName": "Micro",
+        "purpose": "Secondary audit annotations."
+      },
+      "mono": {
+        "displayName": "Mono",
+        "purpose": "Code and structured audit payloads."
+      },
+      "landing-display": {
+        "displayName": "Landing Display",
+        "purpose": "Source Serif 4 under APORIA Serif: the two-line landing introduction."
+      },
+      "landing-headline": {
+        "displayName": "Landing Headline",
+        "purpose": "Source Serif 4 under APORIA Serif: broad landing section headings."
+      },
+      "landing-title": {
+        "displayName": "Landing Title",
+        "purpose": "Source Serif 4 under APORIA Serif: selected policy name."
+      },
+      "landing-body": {
+        "displayName": "Landing Body",
+        "purpose": "Source Sans 3 under APORIA Sans: landing surface base and path prose."
+      },
+      "landing-prose": {
+        "displayName": "Landing Prose",
+        "purpose": "Source Sans 3 under APORIA Sans: readable method and explanatory prose."
+      },
+      "landing-label": {
+        "displayName": "Landing Label",
+        "purpose": "Source Sans 3 under APORIA Sans: supporting labels and notes."
+      },
+      "landing-control": {
+        "displayName": "Landing Control",
+        "purpose": "Source Sans 3 semibold under APORIA Sans: filled laboratory actions."
+      },
+      "landing-state-label": {
+        "displayName": "Landing State Label",
+        "purpose": "Source Sans 3 under APORIA Sans: labeled visual simulation controls."
+      },
+      "landing-navigation": {
+        "displayName": "Landing Navigation",
+        "purpose": "Source Sans 3 under APORIA Sans: desktop landing navigation."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "state-damping",
+        "value": "1 - exp(-min(dt, 0.1) * 2.6)",
+        "purpose": "Blend shader uniforms and pointer rotations toward their current target each frame."
+      },
+      {
+        "name": "particle-time",
+        "value": "uTime += min(dt, 0.05)",
+        "purpose": "Advance continuous deformation only when neither paused nor reduced motion is active."
+      },
+      {
+        "name": "bounded-parallax",
+        "value": "rotation.x = 0.72 + pointer.y * 0.08; rotation.y = -0.28 + pointer.x * 0.16",
+        "purpose": "Pointer coordinates are bounded approximately to -0.5…0.5; their rotational target is damped."
+      },
+      {
+        "name": "simulation-cycle",
+        "value": "6500ms",
+        "purpose": "Cycle the six visibly labeled manual simulation states."
+      },
+      {
+        "name": "research-progress",
+        "value": "transform .5s ease",
+        "purpose": "Animate the two-pixel real research progress bar; removed for reduced motion."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Stop time-driven shader flow, CSS transitions/animations and smooth scrolling; explicit shader state changes remain observable."
+      },
+      {
+        "name": "landing-action-transition",
+        "value": "background-color .15s, color .15s, border-color .15s",
+        "purpose": "Landing action state changes; removed when reduced motion is requested."
+      },
+      {
+        "name": "research-inspector-entry",
+        "value": "opacity .55 to 1; 180ms cubic-bezier(.16,1,.3,1)",
+        "purpose": "Research inspector content changes only; disabled by prefers-reduced-motion: reduce."
+      },
+      {
+        "name": "particle-render-scheduling",
+        "value": "never | demand | always",
+        "purpose": "Shared renderer: never outside the observed intersection (60px margin) or in a hidden document; demand while paused or reduced motion is active, with explicit state invalidation and uniform settling; always otherwise."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "large-stage",
+        "value": "min-width: 1500px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "max-width: 1000px"
+      },
+      {
+        "name": "phone",
+        "value": "max-width: 700px"
+      },
+      {
+        "name": "particle-density",
+        "value": "window.innerWidth < 600px"
+      },
+      {
+        "name": "particle-camera",
+        "value": "renderer size.width < 600px"
+      },
+      {
+        "name": "landing-large-stage",
+        "value": "min-width: 1600px"
+      },
+      {
+        "name": "landing-compact-desktop",
+        "value": "max-width: 1100px"
+      },
+      {
+        "name": "landing-stacked",
+        "value": "max-width: 800px"
+      },
+      {
+        "name": "landing-phone",
+        "value": "max-width: 480px"
+      }
+    ],
+    "particleGeometry": {
+      "source": "src/Intelligence.jsx",
+      "pointCount": {
+        "default": 54000,
+        "below600px": 25000,
+        "widthBasis": "window.innerWidth"
+      },
+      "camera": {
+        "position": [
+          0,
+          0,
+          5.7
+        ],
+        "fov": {
+          "rendererWidthBelow600px": 52,
+          "rendererWidthAtLeast600px": 43,
+          "widthBasis": "useThree().size.width",
+          "initialCanvasFov": 43
+        }
+      },
+      "dpr": [
+        1,
+        1.8
+      ],
+      "blending": "THREE.AdditiveBlending",
+      "depthWrite": false,
+      "centerline": "r = 1.17 + 0.36 * cos(3u); center = [r*cos(2u), r*sin(2u), 0.61*sin(3u)]",
+      "note": "Parametric WebGL geometry; no static shadow-DOM preview substitutes for the running canvas."
+    },
+    "previewNotes": "Tonal ramps are synthesized metadata in OKLCH, not new implementation tokens. Component snippets preserve source styles; native interactions and WebGL require the application runtime.",
+    "researchMetrics": {
+      "source": [
+        "server/engine.mjs",
+        "server/provider.mjs",
+        "src/Laboratory.jsx"
+      ],
+      "argumentConclusionBasis": "Local nomic-embed-text cosine similarity after successful final similarity analysis of at least two completed profiles with positions.",
+      "fallback": "Token-vector similarity while live or when embedding analysis fails or is unavailable.",
+      "branchDeduplication": "Lexical",
+      "argumentLabels": {
+        "lexical": "Lexical argument diversity",
+        "semantic": "Semantic argument diversity"
+      },
+      "truncation": "Each embedding input is capped at 5,000 characters; provider also requests tokenizer truncation.",
+      "limitation": "Embedding distance is not a judgment of philosophical merit. Stance categories and confidence remain provisional."
+    },
+    "surfaces": {
+      "research": {
+        "route": "/app",
+        "tokenScope": "Existing unprefixed tokens",
+        "sources": [
+          "src/App.jsx",
+          "src/styles.css",
+          "src/Laboratory.jsx",
+          "src/ResearchDossier.jsx",
+          "src/Intelligence.jsx"
+        ],
+        "status": "Incumbent documentation preserved; pre-existing drift not repaired.",
+        "laboratoryExtension": {
+          "verification": "Source inspection only; no new screenshot or runtime measurement claims.",
+          "compatibleWith": "Existing unprefixed surface/type/control tokens; original APORIA symbol and explicitly selected Obsidian & Iris shader palette are targeted approved additions.",
+          "logo": {
+            "source": "brand/aporia/assets/logos/symbol-light.svg",
+            "size": "32px; 28px below 700px",
+            "wordmark": "Manrope Variable, weight 650, .12em tracking; 18px, 15px below 700px"
+          },
+          "dossier": {
+            "maxWidth": "74ch",
+            "structure": "Flat ruled coverage register, evidence boundary, warnings, open questions, native provenance and compute disclosures",
+            "warningToken": "graph-counterexample",
+            "register": "Two columns; one column below 700px"
+          },
+          "navigation": {
+            "viewButtonMinimumHeight": "44px",
+            "below700px": "flex-wrap: wrap; overflow-x: visible; gap: 0 20px",
+            "profileTabs": "Horizontal scrolling retained"
+          },
+          "recovery": "In-flow role=status notice opens running/paused record; activeSessionId response loads existing record.",
+          "limits": [
+            "Source checks do not establish runtime frame counts, contrast or visual clipping.",
+            "Mobile particle pause and quiet controls retain 36px minima; desktop icon controls remain 34px.",
+            "Existing generic component previews are preserved; the extension does not retroactively refresh their incumbent measurements."
+          ]
+        }
+      },
+      "landing": {
+        "route": "/",
+        "tokenScope": "landing-*",
+        "visualWorld": "Obsidian & Iris",
+        "approval": "User selected the original Divergent Apertures logo and Obsidian & Iris concept before implementation; this records the finished approved extension.",
+        "sources": [
+          "src/landing/Landing.jsx",
+          "src/landing/landing.css"
+        ],
+        "fontAliases": {
+          "APORIA Sans": "Source Sans 3",
+          "APORIA Serif": "Source Serif 4"
+        },
+        "logo": {
+          "name": "Original Divergent Apertures",
+          "medium": "Inline source SVG",
+          "viewBox": "0 0 128 128",
+          "strokeWidth": 7,
+          "strokeLinecap": "butt",
+          "strokeLinejoin": "round"
+        },
+        "depth": "Live WebGL folded particle geometry with source SVG fallback; no shipping rasters.",
+        "evidence": {
+          "verification": ".impeccable/review/verification.json",
+          "screenshots": [
+            ".impeccable/review/hero.png",
+            ".impeccable/review/desktop.png",
+            ".impeccable/review/mobile.png",
+            ".impeccable/review/approach-desktop.png",
+            ".impeccable/review/approach-mobile.png"
+          ],
+          "viewportWidths": [
+            1440,
+            1280,
+            768,
+            390,
+            320
+          ],
+          "finishDisposition": "Ship with no material fixes"
+        }
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The inquiry submission action, with enabled and disabled states.",
+      "html": "<div class=\"ds-action-row\"><button class=\"ds-action\">Start research<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></button><button class=\"ds-action\" disabled>Researching<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></button></div>",
+      "css": ".ds-action-row{display:flex;gap:12px}.ds-action{font-family:'Manrope Variable',sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:20px;border:1px solid #758d9e;background:#bdd3e1;color:#111c27;font-size:11px;font-weight:650;border-radius:4px;padding:0 19px;min-height:45px;cursor:pointer}.ds-action:hover:not(:disabled){background:#deebf3}.ds-action:disabled{background:#718491;border-color:#718491;opacity:.65;cursor:not-allowed}.ds-action:focus-visible{outline:2px solid #99c7df;outline-offset:5px}"
+    },
+    {
+      "name": "Quiet action",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "Secondary text action for setup, archive and exports.",
+      "html": "<button class=\"ds-quiet\">Research archive <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"/></svg></button>",
+      "css": ".ds-quiet{font-family:'Manrope Variable',sans-serif;border:0;background:none;cursor:pointer;display:inline-flex;align-items:center;gap:8px;font-size:11px;white-space:nowrap;color:#a6b5c7;padding:4px 0}.ds-quiet:hover{color:#edf4fa}.ds-quiet:disabled{cursor:not-allowed;opacity:.42}.ds-quiet:focus-visible{outline:2px solid #99c7df;outline-offset:5px}"
+    },
+    {
+      "name": "Icon control",
+      "kind": "button",
+      "refersTo": "button-icon",
+      "description": "Compact pause, stop or close control.",
+      "html": "<button class=\"ds-icon\" aria-label=\"Pause research\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M9 5H6v14h3zm9 0h-3v14h3z\"/></svg></button>",
+      "css": ".ds-icon{font-family:'Manrope Variable',sans-serif;width:34px;height:34px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--line,#25303d);border-radius:5px;background:none;color:var(--ink,#d5dbe4);cursor:pointer}.ds-icon:hover{background:#17212c}.ds-icon:disabled{cursor:not-allowed;opacity:.42}.ds-icon:focus-visible{outline:2px solid #99c7df;outline-offset:5px}"
+    },
+    {
+      "name": "Question field",
+      "kind": "input",
+      "refersTo": "question-field",
+      "description": "Unfilled text input inside a softly rounded tonal field.",
+      "html": "<label class=\"ds-field\"><input aria-label=\"Philosophical question\" placeholder=\"Is personal identity dependent on psychological continuity?\" /></label>",
+      "css": ".ds-field{display:flex;border:1px solid #354454;border-radius:8px;background:var(--surface,#10161e);padding:7px 7px 7px 22px;min-height:61px;gap:12px}.ds-field:focus-within{border-color:#8ab2ce}.ds-field input{font-family:'Manrope Variable',sans-serif;min-width:0;flex:1;border:0;background:none;outline:none;color:#dce5ee;font-size:12px;padding:8px 0;caret-color:#b9ddee}.ds-field input::placeholder{color:#92a1b3;opacity:1}.ds-field input:disabled{opacity:.42;cursor:not-allowed}@media(max-width:700px){.ds-field{padding:5px 5px 5px 14px;min-height:58px}.ds-field input{font-size:16px;padding:10px 0}.ds-field input::placeholder{font-size:11px}}"
+    },
+    {
+      "name": "Mode navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Header tabs with a one-pixel active underline.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Laboratory mode\"><button aria-current=\"page\">Research</button><button>Visual studies</button></nav>",
+      "css": ".ds-nav{display:flex;gap:36px}.ds-nav button{font-family:'Manrope Variable',sans-serif;border:0;background:none;cursor:pointer;height:86px;color:#8b99aa;font-size:12px;border-bottom:1px solid transparent;padding:0 3px}.ds-nav button[aria-current]{color:#dbe6f0;border-color:#8eaec9}.ds-nav button:hover{color:#dbe6f0}.ds-nav button:focus-visible{outline:2px solid #99c7df;outline-offset:5px}@media(max-width:1000px){.ds-nav{gap:26px}}@media(max-width:700px){.ds-nav{gap:18px}.ds-nav button{font-size:10px;height:70px}}"
+    },
+    {
+      "name": "Simulation states",
+      "kind": "button",
+      "refersTo": "mode-button",
+      "description": "Numbered state buttons with a quiet selected fill.",
+      "html": "<div class=\"ds-modes\" aria-label=\"Simulated visual states\"><button aria-pressed=\"true\"><span>1</span>Idle</button><button aria-pressed=\"false\"><span>4</span>Conflict</button></div>",
+      "css": ".ds-modes{display:flex;gap:4px;flex-wrap:wrap}.ds-modes button{font-family:'Manrope Variable',sans-serif;border:0;background:none;cursor:pointer;display:flex;align-items:center;gap:9px;font-size:10px;color:#9aacbf;padding:10px;border:1px solid transparent;border-radius:5px}.ds-modes button span{font-size:8px;color:#7e91a7;font-variant-numeric:tabular-nums}.ds-modes button[aria-pressed=true]{background:#14202d;border-color:#32485d;color:#d1e2f0}.ds-modes button:hover{background:#111b26;color:#d1e2f0}.ds-modes button:focus-visible{outline:2px solid #99c7df;outline-offset:5px}@media(max-width:700px){.ds-modes{gap:5px}.ds-modes button{font-size:9px;padding:9px}}"
+    },
+    {
+      "name": "Archive container",
+      "kind": "card",
+      "refersTo": "archive-container",
+      "description": "A flat tonal container whose record rows use dividers.",
+      "html": "<section class=\"ds-archive\"><h3>Research archive</h3><button><span>Is personal identity dependent on psychological continuity?</span><small>Record · complete</small></button></section>",
+      "css": ".ds-archive{font-family:'Manrope Variable',sans-serif;padding:24px;background:#0e151e;border-radius:6px;color:var(--ink,#d5dbe4)}.ds-archive h3{margin:0;font-size:16px;font-weight:500}.ds-archive button{font-family:'Manrope Variable',sans-serif;border:0;background:none;cursor:pointer;display:flex;align-items:center;gap:20px;justify-content:space-between;width:100%;padding:20px 0;border-bottom:1px solid var(--line,#25303d);text-align:left;font-size:12px;color:inherit}.ds-archive button span{flex:1}.ds-archive button:hover{color:#d3e5f4}.ds-archive button small{font-size:10px;white-space:nowrap;color:var(--muted,#91a0b2)}.ds-archive button:focus-visible{outline:2px solid #99c7df;outline-offset:5px}@media(max-width:700px){.ds-archive{padding:18px}.ds-archive button{flex-wrap:wrap;gap:7px}.ds-archive button span{flex-basis:85%}}"
+    },
+    {
+      "name": "Delta slider",
+      "kind": "custom",
+      "description": "Fine track and numeric readout for cognitive differentiation.",
+      "html": "<div class=\"ds-delta\"><label for=\"ds-delta\">Cognitive differentiation <span>Δ</span></label><input id=\"ds-delta\" aria-label=\"Cognitive differentiation\" type=\"range\" min=\"0\" max=\"1\" step=\"0.01\" value=\"0.6\" style=\"--range:60%\"/><output for=\"ds-delta\">0.60</output></div>",
+      "css": ".ds-delta{font-family:'Manrope Variable',sans-serif;display:flex;align-items:center;gap:19px}.ds-delta label{font-size:10px;color:#9aacbe}.ds-delta label span{margin-left:4px;color:#c0d0e0;font-family:serif;font-size:13px}.ds-delta input{appearance:none;width:125px;height:2px;background:linear-gradient(to right,#96b9d3 0%,#96b9d3 var(--range),#334353 var(--range),#334353 100%);margin:0;cursor:pointer;outline-offset:8px}.ds-delta input::-webkit-slider-thumb{appearance:none;width:9px;height:9px;background:#b9d0e3;border-radius:50%;border:1px solid #d5e5f0}.ds-delta input::-moz-range-thumb{width:8px;height:8px;background:#b9d0e3;border-radius:50%;border:0}.ds-delta input:focus-visible{outline:2px solid #99c7df}.ds-delta input:disabled{opacity:.4;cursor:not-allowed}.ds-delta output{font-size:10px;min-width:28px;color:#abc1d7;font-variant-numeric:tabular-nums}@media(max-width:700px){.ds-delta{gap:15px}.ds-delta input{flex:1;width:auto;min-width:50px}.ds-delta label{font-size:9px}}"
+    },
+    {
+      "name": "Argument node",
+      "kind": "custom",
+      "description": "Typed graph node with keyboard focus, active stroke and rejected state.",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"ds-graph\" viewBox=\"0 0 390 76\"><g class=\"ds-node ds-active\" role=\"button\" tabindex=\"0\" aria-label=\"Hypothesis node\" transform=\"translate(95,38)\"><rect x=\"-85\" y=\"-23\" width=\"170\" height=\"46\" rx=\"5\"/><circle cx=\"-72\" cy=\"-9\" r=\"2.5\"/><text x=\"-63\" y=\"-6\">HYPOTHESIS</text><text class=\"ds-node-text\" x=\"-72\" y=\"12\">Provisional argument</text></g><g class=\"ds-node ds-rejected\" role=\"button\" tabindex=\"0\" aria-label=\"Rejected objection\" transform=\"translate(295,38)\"><rect x=\"-85\" y=\"-23\" width=\"170\" height=\"46\" rx=\"5\"/><circle cx=\"-72\" cy=\"-9\" r=\"2.5\"/><text x=\"-63\" y=\"-6\">OBJECTION</text><text class=\"ds-node-text\" x=\"-72\" y=\"12\">Rejected argument</text></g></svg>",
+      "css": ".ds-graph{font-family:'Manrope Variable',sans-serif;width:100%;display:block;font-size:9px}.ds-node{cursor:pointer;fill:#abc5db}.ds-node rect{fill:var(--surface,#10161e);stroke:#26313d;stroke-width:1}.ds-node.ds-active rect{fill:#19222d;stroke:#abc5db}.ds-node:hover rect{stroke:var(--accent,#a8cbe0)}.ds-node.ds-rejected{fill:#dc8e6a}.ds-node.ds-rejected rect{stroke:#9c715a;stroke-dasharray:3 3}.ds-node-text{fill:#a9b4c2}.ds-node:focus-visible{outline:2px solid #99c7df;outline-offset:5px}"
+    },
+    {
+      "name": "Landing action on obsidian",
+      "kind": "button",
+      "description": "Route /: pale entry action on the obsidian surface.",
+      "html": "<div class=\"ds-landing-dark\"><a class=\"ds-landing-action\" href=\"/app\">Open the laboratory<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a></div>",
+      "css": ".ds-landing-dark{background:#121416;padding:22px}.ds-landing-action{display:inline-flex;align-items:center;justify-content:center;gap:18px;white-space:nowrap;font-family:'APORIA Sans',Arial,sans-serif;font-weight:600;font-size:17px;line-height:1.5;padding:14px 22px;min-height:52px;border-radius:3px;text-decoration:none;transition:background-color .15s,color .15s,border-color .15s;background:#F4F1E9;color:#121416;border:1px solid #F4F1E9}.ds-landing-action:hover{background:#DAD3C6;border-color:#DAD3C6}.ds-landing-action:focus-visible{outline:2px solid #79C5CF;outline-offset:6px}.ds-landing-action svg{flex-shrink:0}@media(prefers-reduced-motion:reduce){.ds-landing-action{transition:none}}",
+      "refersTo": "landing-action-filled"
+    },
+    {
+      "name": "Landing action on paper",
+      "kind": "button",
+      "description": "Route /: reversed entry action in the warm-paper closing surface.",
+      "html": "<div class=\"ds-landing-paper\"><a class=\"ds-landing-paper-action\" href=\"/app\">Open the laboratory<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a></div>",
+      "css": ".ds-landing-paper{background:#F4F1E9;padding:22px}.ds-landing-paper-action{display:inline-flex;align-items:center;justify-content:center;gap:18px;white-space:nowrap;font-family:'APORIA Sans',Arial,sans-serif;font-weight:600;font-size:17px;line-height:1.5;padding:14px 22px;min-height:52px;border-radius:3px;text-decoration:none;transition:background-color .15s,color .15s,border-color .15s;background:#121416;color:#F4F1E9;border:1px solid #121416}.ds-landing-paper-action:hover{background:#353B42;border-color:#353B42}.ds-landing-paper-action:focus-visible{outline:2px solid #24636C;outline-offset:6px}.ds-landing-paper-action svg{flex-shrink:0}@media(prefers-reduced-motion:reduce){.ds-landing-paper-action{transition:none}}",
+      "refersTo": "landing-action-on-paper"
+    },
+    {
+      "name": "Original APORIA signature",
+      "kind": "custom",
+      "description": "Route /: the approved original Divergent Apertures geometry and wordmark.",
+      "html": "<div class=\"ds-signature-surface\"><a class=\"ds-landing-signature\" href=\"#top\" aria-label=\"APORIA home\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 128\" fill=\"none\" aria-hidden=\"true\"><g stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"butt\" stroke-linejoin=\"round\"><path d=\"M108.184 45.245 A48 48 0 1 1 64.838 16.007\"/><path d=\"M93.875 75.468 A32 32 0 1 1 86.627 41.373\"/><path d=\"M70.762 78.501 A16 16 0 1 1 79.998 63.721\"/></g></svg><span>APORIA</span></a></div>",
+      "css": ".ds-signature-surface{background:#121416;padding:22px}.ds-landing-signature{display:inline-flex;align-items:center;gap:14px;font-family:'APORIA Sans',Arial,sans-serif;font-size:24px;font-weight:600;letter-spacing:.12em;text-decoration:none;color:#F4F1E9}.ds-landing-signature svg{display:block;width:40px;height:40px;flex-shrink:0}.ds-landing-signature:focus-visible{outline:2px solid #79C5CF;outline-offset:6px}@media(max-width:800px){.ds-landing-signature{font-size:22px}.ds-landing-signature svg{width:36px;height:36px}}"
+    },
+    {
+      "name": "Landing navigation",
+      "kind": "nav",
+      "description": "Route /: plain links and a fine rule; mobile menu behavior needs the React runtime.",
+      "html": "<nav class=\"ds-landing-nav\" aria-label=\"Main navigation\"><a href=\"#approach\">The approach</a><a href=\"#method\">The method</a><a href=\"#questions\">Questions</a><a class=\"ds-nav-lab\" href=\"/app\">Open the laboratory<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M7 17 17 7M7 7h10v10\"/></svg></a></nav>",
+      "css": ".ds-landing-nav{display:flex;align-items:center;gap:34px;min-height:108px;padding:0 22px;background:#121416;color:#F4F1E9;border-bottom:1px solid #353B42;font-family:'APORIA Sans',Arial,sans-serif}.ds-landing-nav a{font-size:16px;line-height:1.6;color:inherit;text-decoration:none;text-underline-offset:6px}.ds-landing-nav a:hover{text-decoration:underline}.ds-landing-nav a:focus-visible{outline:2px solid #79C5CF;outline-offset:6px}.ds-nav-lab{display:inline-flex;align-items:center;gap:18px;margin-left:30px;padding:11px 0;border-bottom:1px solid #747E88;font-weight:600}@media(max-width:1100px){.ds-landing-nav{gap:22px;min-height:92px}.ds-landing-nav a{font-size:15px}.ds-nav-lab{margin-left:6px}}@media(max-width:800px){.ds-landing-nav{align-items:stretch;flex-direction:column;gap:8px;padding:20px 24px 26px}.ds-landing-nav a{font-size:18px;padding:10px 0}.ds-nav-lab{margin-left:0;align-self:flex-start;margin-top:12px}}",
+      "refersTo": "landing-navigation"
+    },
+    {
+      "name": "Landing visual state controls",
+      "kind": "button",
+      "description": "Route /: three cognitive-state colors and shapes, selected fill and a separate pause control.",
+      "html": "<div class=\"ds-landing-states\"><div class=\"ds-state-choices\"><button class=\"ds-state-button ds-reasoning\" aria-pressed=\"false\"><span class=\"ds-state-shape\"></span>Reasoning</button><button class=\"ds-state-button ds-exploration\" aria-pressed=\"true\"><span class=\"ds-state-shape\"></span>Exploration</button><button class=\"ds-state-button ds-conflict\" aria-pressed=\"false\"><span class=\"ds-state-shape\"></span>Conflict</button></div><button class=\"ds-landing-pause\" aria-label=\"Pause particle animation\" aria-pressed=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><rect x=\"6\" y=\"4\" width=\"4\" height=\"16\" rx=\"1\"/><rect x=\"14\" y=\"4\" width=\"4\" height=\"16\" rx=\"1\"/></svg></button></div>",
+      "css": ".ds-landing-states{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:15px 0;background:#121416;border-top:1px solid #353B42;font-family:'APORIA Sans',Arial,sans-serif}.ds-state-choices{display:flex;gap:12px;flex-wrap:wrap}.ds-state-button{display:flex;align-items:center;gap:8px;padding:9px 10px;font:400 15px/1.5 'APORIA Sans',Arial,sans-serif;min-height:44px;border:1px solid transparent;border-radius:3px;background:none;cursor:pointer}.ds-reasoning{color:#B7A2E8}.ds-exploration{color:#79C5CF}.ds-conflict{color:#DDB16B}.ds-state-button[aria-pressed=true]{background:#1B1F23;border-color:#747E88}.ds-state-button:hover{background:#1B1F23}.ds-state-shape{display:block;width:10px;height:10px;border:1.5px solid currentColor;border-radius:50%;flex:none}.ds-exploration .ds-state-shape{border-radius:0;transform:rotate(45deg);width:8px;height:8px;margin:1px}.ds-conflict .ds-state-shape{border-radius:0;border-top:0;transform:rotate(45deg);width:9px;height:9px}.ds-landing-pause{display:flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;border:1px solid #747E88;border-radius:3px;color:#B4BBC2;background:none;cursor:pointer}.ds-landing-pause:hover{color:#F4F1E9;background:#1B1F23}.ds-state-button:focus-visible,.ds-landing-pause:focus-visible{outline:2px solid #79C5CF;outline-offset:6px}@media(max-width:480px){.ds-state-choices{gap:2px}.ds-state-button{font-size:14px;padding:9px 5px;gap:6px}.ds-landing-pause{min-width:40px;min-height:42px}}",
+      "refersTo": "landing-state-button"
+    },
+    {
+      "name": "Landing policy specimen",
+      "kind": "custom",
+      "description": "Route /: neutral policy tabs and an illustrative three-node path on warm paper. The selected policy changes in the React runtime.",
+      "html": "<section class=\"ds-policy\"><div class=\"ds-policy-tabs\" role=\"tablist\" aria-label=\"Cognitive policy\"><button role=\"tab\" aria-selected=\"true\">Explorer</button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Formalist</button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Skeptic</button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Synthesizer</button><button role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Minimalist</button></div><div class=\"ds-policy-panel\"><div class=\"ds-policy-description\"><h3>Explorer</h3><p>Open more possibilities. Follow unfamiliar connections before narrowing the inquiry.</p></div><ol class=\"ds-policy-path\"><li><span class=\"ds-policy-node\"></span><span class=\"ds-policy-count\">1</span><p>Map possible continuities</p></li><li><span class=\"ds-policy-node\"></span><span class=\"ds-policy-count\">2</span><p>Explore memory, body and narrative</p></li><li><span class=\"ds-policy-node\"></span><span class=\"ds-policy-count\">3</span><p>Find a question worth pursuing</p></li></ol></div><p class=\"ds-policy-note\">Illustrative workflow. Actual trajectories depend on the question, model and controller state.</p></section>",
+      "css": ".ds-policy{padding:22px;background:#F4F1E9;color:#121416;font-family:'APORIA Sans',Arial,sans-serif;border-top:1px solid #76736C;border-bottom:1px solid #76736C}.ds-policy-tabs{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid #D1CDC3;border-bottom:1px solid #D1CDC3}.ds-policy-tabs button{display:flex;align-items:center;text-align:left;padding:19px 15px;font:400 18px/1.5 'APORIA Sans',Arial,sans-serif;border:0;border-bottom:2px solid transparent;color:#596168;background:none;cursor:pointer}.ds-policy-tabs button:first-child{padding-left:0}.ds-policy-tabs button[aria-selected=true]{border-bottom-color:#121416;color:#121416;font-weight:600}.ds-policy-tabs button:hover{color:#121416;background:#E9E5DB}.ds-policy-tabs button:focus-visible{outline:2px solid #24636C;outline-offset:6px}.ds-policy-panel{display:grid;grid-template-columns:.72fr 1.75fr;gap:64px;padding:42px 0 33px;min-height:229px}.ds-policy-description h3{margin:0;font:400 32px/1.3 'APORIA Serif',Georgia,serif}.ds-policy-description p{margin:13px 0 0;font-size:17px;line-height:1.6;max-width:32ch;color:#596168}.ds-policy-path{position:relative;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;list-style:none;padding:19px 0 0;margin:0}.ds-policy-path:before{content:'';position:absolute;top:27px;left:9px;right:calc(33.333% - 11px);border-top:1px solid #76736C}.ds-policy-path li{position:relative;min-width:0}.ds-policy-node{position:relative;z-index:1;display:block;width:17px;height:17px;border:1.5px solid #121416;border-radius:50%;background:#F4F1E9;margin-bottom:23px}.ds-policy-path li:first-child .ds-policy-node{border-color:#65509A}.ds-policy-count{display:block;font-size:14px;color:#596168;font-variant-numeric:tabular-nums;margin-bottom:6px}.ds-policy-path li p{margin:0;font-size:18px;line-height:1.5;max-width:21ch}.ds-policy-note{font-size:14px;line-height:1.6;color:#596168;padding:0 0 24px;margin:0}@media(max-width:800px){.ds-policy-tabs{display:flex;flex-wrap:wrap;gap:0 16px;padding-block:5px}.ds-policy-tabs button,.ds-policy-tabs button:first-child{padding:12px 2px;font-size:17px}.ds-policy-panel{grid-template-columns:1fr;gap:28px;padding-block:30px 28px;min-height:340px}}@media(max-width:480px){.ds-policy-tabs{gap:0 12px}.ds-policy-tabs button{font-size:16px}.ds-policy-panel{min-height:410px;gap:26px}.ds-policy-path{display:flex;flex-direction:column;padding:0;gap:21px}.ds-policy-path:before{top:9px;bottom:50px;left:8px;right:auto;border:0;border-left:1px solid #76736C}.ds-policy-path li{display:grid;grid-template-columns:17px 14px 1fr;gap:15px;align-items:start}.ds-policy-node{margin:5px 0 0}.ds-policy-count{padding-top:1px;font-size:15px}.ds-policy-path li p{max-width:30ch}}",
+      "refersTo": "landing-policy-specimen"
+    },
+    {
+      "name": "Landing FAQ disclosure",
+      "kind": "custom",
+      "description": "Route /: native disclosure with readable prose, fine rules and cognitive-state hover.",
+      "html": "<div class=\"ds-faq\"><details><summary><span>What is APORIA?</span><svg class=\"ds-faq-plus\" xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M5 12h14M12 5v14\"/></svg><svg class=\"ds-faq-minus\" xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"21\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M5 12h14\"/></svg></summary><p>A local, experimental laboratory for philosophical inquiry. Five cognitive policies work from the same starting question, maintaining independent reasoning records that you can inspect and compare.</p></details></div>",
+      "css": ".ds-faq{background:#121416;color:#F4F1E9;padding:22px;font-family:'APORIA Sans',Arial,sans-serif}.ds-faq details{border-bottom:1px solid #353B42}.ds-faq summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:25px;padding:22px 0;cursor:pointer;font-size:20px;line-height:1.5}.ds-faq summary::-webkit-details-marker{display:none}.ds-faq summary:hover{color:#B7A2E8}.ds-faq summary:focus-visible{outline:2px solid #79C5CF;outline-offset:6px}.ds-faq summary svg{color:#B4BBC2;flex-shrink:0}.ds-faq-minus{display:none}.ds-faq details[open] .ds-faq-plus{display:none}.ds-faq details[open] .ds-faq-minus{display:block}.ds-faq p{margin:0;color:#B4BBC2;font-size:17px;line-height:1.7;max-width:58ch;padding:0 42px 25px 0}@media(max-width:800px){.ds-faq summary{font-size:19px}.ds-faq p{padding-right:20px}}",
+      "refersTo": "landing-faq"
+    },
+    {
+      "name": "Research dossier register",
+      "kind": "custom",
+      "description": "Route /app: flat evidence rows and a native provenance disclosure. Values are illustrative labels only; live records require the application runtime.",
+      "html": "<section class=\"ds-dossier\"><h3>What has actually been tested?</h3><p>Read the evidence boundary before interpreting a conclusion.</p><dl><div><dt>Current hypothesis</dt><dd>Completed model tests</dd></div><div><dt>Assumptions tested</dt><dd>Recorded in the run</dd></div></dl><details><summary>Reproduce this experiment</summary><p>Seed, memory origin and fingerprints are saved with the record.</p></details></section>",
+      "css": ".ds-dossier{max-width:74ch;padding:6px 0 24px;color:var(--ink,#d5dbe4);font-family:'Manrope Variable',sans-serif}.ds-dossier h3{margin:0;font:400 27px/1.2 'Newsreader Variable',serif}.ds-dossier p{font-size:12px;line-height:1.8;color:#aab7c7}.ds-dossier dl{margin:24px 0}.ds-dossier dl>div{display:grid;grid-template-columns:1fr 1fr;gap:18px;padding:12px 0;border-bottom:1px solid var(--line,#25303d);font-size:12px;line-height:1.6}.ds-dossier dt{color:var(--muted,#91a0b2)}.ds-dossier dd{margin:0;overflow-wrap:anywhere}.ds-dossier details{padding:18px 0;border-top:1px solid var(--line,#25303d);margin-top:28px}.ds-dossier summary{cursor:pointer;font-size:12px;line-height:1.6;color:#aab7c7}.ds-dossier details[open]>summary{margin-bottom:18px}.ds-dossier summary:focus-visible{outline:2px solid #99c7df;outline-offset:5px}@media(max-width:700px){.ds-dossier dl>div{grid-template-columns:1fr;gap:4px}.ds-dossier p,.ds-dossier dl>div{font-size:13px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Particle observatory",
+    "overview": "A near-black field holds a folded, point-based volumetric topology. Cool blue, cyan and violet describe the object; warm regions signal conflict and pale regions signal insight. Manrope controls and Newsreader display copy keep the surrounding interface restrained.\n\nThe sculpture supplies spatial depth. Inspection uses flat sections, thin dividers and compact readouts rather than ornamental chrome. This is a code-authored WebGL medium; raster compositions are not part of the implemented design.\n\nThe user-selected original Divergent Apertures mark and Obsidian & Iris concept extend this system for the public landing route (`/`). The landing uses warm paper against obsidian, Source Serif 4 display typography and Source Sans 3 interface text. The folded particle object retains spatial depth; the surrounding surface stays flat and ruled. This is an approved route-specific addition, recorded from the finished implementation rather than a replacement of the research instrument.\n\nThe existing unprefixed frontmatter tokens and incumbent descriptions continue to govern the research application at (`/app`). All `landing-*` tokens govern only `src/landing/Landing.jsx` and `src/landing/landing.css`; the shared particle renderer selects the Obsidian & Iris palette when explicitly requested, including the approved laboratory particle adaptation documented below. The two APORIA font aliases are intentional additions to the system, not substitutions for Manrope or Newsreader.",
+    "keyCharacteristics": [
+      "Folded particle geometry with cavities and asymmetry.",
+      "Near-black surfaces, cool information and warm conflict.",
+      "Quiet controls, fine dividers and compact numeric readouts.",
+      "State-driven deformation with reduced-motion and pause support.",
+      "Original Divergent Apertures SVG mark with a spaced APORIA wordmark.",
+      "Obsidian and warm-paper surfaces with iris, cyan and amber cognitive-state accents.",
+      "Source Serif 4 display and italic paired with readable Source Sans 3 controls and prose.",
+      "Flat fine-rule components, neutral policy identities and responsive illustrative paths."
+    ],
+    "rules": [
+      {
+        "name": "The State Color Rule",
+        "body": "Color carries cognitive or control state; preserve the existing cool, warm and pale state meanings.",
+        "section": "colors"
+      },
+      {
+        "name": "The Sculpture Depth Rule",
+        "body": "Keep interface chrome flat so the folded particle volume remains the source of spatial depth.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Landing State Color Rule",
+        "body": "On the landing, iris means reasoning, cyan means exploration and amber means conflict. Policy identities stay neutral; selected policy tabs use ink and an underline.",
+        "section": "colors"
+      },
+      {
+        "name": "The Paper Contrast Rule",
+        "body": "Switch to the darker paper-context accents and muted text whenever controls sit on warm paper; the pale obsidian-context accents are not text colors for the paper surface.",
+        "section": "colors"
+      },
+      {
+        "name": "The Route Typography Rule",
+        "body": "Use the APORIA aliases for the approved landing extension; retain Manrope Variable and Newsreader Variable for the research instrument.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "Do retain folds, cavities and asymmetry in the particle object at desktop and phone sizes.",
+      "Do use warm colors for conflict, objections, counterexamples and failure; use pale light for insight.",
+      "Do keep numeric readouts tabular and research inspection visually secondary.",
+      "Do preserve visible keyboard focus, reduced-motion behavior and explicit simulation labels.",
+      "Do keep landing-prefixed interface tokens and APORIA font aliases scoped to (`/`); the approved `/app` particle adaptation explicitly reuses the shader palette.",
+      "Do preserve the original Divergent Apertures SVG geometry and its spaced APORIA wordmark.",
+      "Do use darker accent and muted-text tokens on warm paper, and keep policy identities neutral.",
+      "Do retain explicit simulation and illustrative-workflow labels, visible focus, pause and reduced-motion behavior."
+    ],
+    "donts": [
+      "Don't replace the particle topology with a generic sphere, robot avatar or chat interface.",
+      "Don't add neon HUD decoration, ornamental dashboard chrome or fixed overlays.",
+      "Don't present manually selected visual states as measured cognition.",
+      "Don't introduce raster art for the parametric particle object.",
+      "Don't replace research-app tokens or typography with the landing extension without a separate approved scope.",
+      "Don't turn cognitive-state colors into fixed profile-identity colors on the landing.",
+      "Don't replace the live folded geometry or its SVG fallback with a shipping raster illustration."
+    ]
+  }
+}

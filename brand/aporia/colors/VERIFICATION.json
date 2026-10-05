@@ -1,0 +1,320 @@
+{
+  "browser": "Installed Google Chrome / temporary headless session",
+  "originalLogoCopies": 8,
+  "originalLogoPathsPreserved": true,
+  "interactionCombinations": 30,
+  "prescribedContrastPairs": 72,
+  "responsiveChecks": [
+    {
+      "width": 1600,
+      "documentWidth": 1600,
+      "brokenImages": [],
+      "loadedFonts": [
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        },
+        {
+          "family": "Research",
+          "status": "loaded"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "One mark. Three color directions."
+        },
+        {
+          "level": 2,
+          "text": "Three color directions"
+        },
+        {
+          "level": 3,
+          "text": "Obsidian & Iris"
+        },
+        {
+          "level": 3,
+          "text": "Graphite & Mineral"
+        },
+        {
+          "level": 3,
+          "text": "Ink & Parchment"
+        },
+        {
+          "level": 2,
+          "text": "Try the colors in context."
+        },
+        {
+          "level": 3,
+          "text": "Reasoning under uncertainty."
+        },
+        {
+          "level": 3,
+          "text": "Functional color pairs"
+        },
+        {
+          "level": 3,
+          "text": "The color rules"
+        }
+      ],
+      "ordinaryTextMinimumLeading": 1.35
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "brokenImages": [],
+      "loadedFonts": [
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        },
+        {
+          "family": "Research",
+          "status": "loaded"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "One mark. Three color directions."
+        },
+        {
+          "level": 2,
+          "text": "Three color directions"
+        },
+        {
+          "level": 3,
+          "text": "Obsidian & Iris"
+        },
+        {
+          "level": 3,
+          "text": "Graphite & Mineral"
+        },
+        {
+          "level": 3,
+          "text": "Ink & Parchment"
+        },
+        {
+          "level": 2,
+          "text": "Try the colors in context."
+        },
+        {
+          "level": 3,
+          "text": "Reasoning under uncertainty."
+        },
+        {
+          "level": 3,
+          "text": "Functional color pairs"
+        },
+        {
+          "level": 3,
+          "text": "The color rules"
+        }
+      ],
+      "ordinaryTextMinimumLeading": 1.35
+    },
+    {
+      "width": 1024,
+      "documentWidth": 1024,
+      "brokenImages": [],
+      "loadedFonts": [
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        },
+        {
+          "family": "Research",
+          "status": "loaded"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "One mark. Three color directions."
+        },
+        {
+          "level": 2,
+          "text": "Three color directions"
+        },
+        {
+          "level": 3,
+          "text": "Obsidian & Iris"
+        },
+        {
+          "level": 3,
+          "text": "Graphite & Mineral"
+        },
+        {
+          "level": 3,
+          "text": "Ink & Parchment"
+        },
+        {
+          "level": 2,
+          "text": "Try the colors in context."
+        },
+        {
+          "level": 3,
+          "text": "Reasoning under uncertainty."
+        },
+        {
+          "level": 3,
+          "text": "Functional color pairs"
+        },
+        {
+          "level": 3,
+          "text": "The color rules"
+        }
+      ],
+      "ordinaryTextMinimumLeading": 1.35
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "brokenImages": [],
+      "loadedFonts": [
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        },
+        {
+          "family": "Research",
+          "status": "loaded"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "One mark. Three color directions."
+        },
+        {
+          "level": 2,
+          "text": "Three color directions"
+        },
+        {
+          "level": 3,
+          "text": "Obsidian & Iris"
+        },
+        {
+          "level": 3,
+          "text": "Graphite & Mineral"
+        },
+        {
+          "level": 3,
+          "text": "Ink & Parchment"
+        },
+        {
+          "level": 2,
+          "text": "Try the colors in context."
+        },
+        {
+          "level": 3,
+          "text": "Reasoning under uncertainty."
+        },
+        {
+          "level": 3,
+          "text": "Functional color pairs"
+        },
+        {
+          "level": 3,
+          "text": "The color rules"
+        }
+      ],
+      "ordinaryTextMinimumLeading": 1.35
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "brokenImages": [],
+      "loadedFonts": [
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Interface",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        },
+        {
+          "family": "Research",
+          "status": "loaded"
+        }
+      ],
+      "headings": [
+        {
+          "level": 1,
+          "text": "One mark. Three color directions."
+        },
+        {
+          "level": 2,
+          "text": "Three color directions"
+        },
+        {
+          "level": 3,
+          "text": "Obsidian & Iris"
+        },
+        {
+          "level": 3,
+          "text": "Graphite & Mineral"
+        },
+        {
+          "level": 3,
+          "text": "Ink & Parchment"
+        },
+        {
+          "level": 2,
+          "text": "Try the colors in context."
+        },
+        {
+          "level": 3,
+          "text": "Reasoning under uncertainty."
+        },
+        {
+          "level": 3,
+          "text": "Functional color pairs"
+        },
+        {
+          "level": 3,
+          "text": "The color rules"
+        }
+      ],
+      "ordinaryTextMinimumLeading": 1.35
+    }
+  ],
+  "scriptErrors": []
+}

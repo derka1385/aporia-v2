@@ -1,0 +1,136 @@
+{
+  "logo": "Divergent Apertures / original retained master",
+  "status": "color exploration",
+  "recommended": "obsidian",
+  "palettes": [
+    {
+      "id": "obsidian",
+      "name": "Obsidian & Iris",
+      "recommended": true,
+      "character": "Philosophical warmth. Precise cognitive color.",
+      "judgment": "Best balance of the journal and the instrument. Iris remains a reasoning signal; the identity rests on paper and obsidian.",
+      "dark": {
+        "bg": "#121416",
+        "surface": "#1B1F23",
+        "text": "#F4F1E9",
+        "muted": "#B4BBC2",
+        "rule": "#353B42",
+        "boundary": "#747E88",
+        "reasoning": "#B7A2E8",
+        "exploration": "#79C5CF",
+        "event": "#DDB16B"
+      },
+      "light": {
+        "bg": "#F4F1E9",
+        "surface": "#E9E5DB",
+        "text": "#121416",
+        "muted": "#596168",
+        "rule": "#D1CDC3",
+        "boundary": "#76736C",
+        "reasoning": "#65509A",
+        "exploration": "#24636C",
+        "event": "#805B22"
+      }
+    },
+    {
+      "id": "mineral",
+      "name": "Graphite & Mineral",
+      "recommended": false,
+      "character": "Cooler, clearer, closer to the laboratory.",
+      "judgment": "The strongest scientific register. Its colder paper and blue-leaning iris give up some literary warmth.",
+      "dark": {
+        "bg": "#10181C",
+        "surface": "#18242A",
+        "text": "#EDF2F1",
+        "muted": "#A3B7BC",
+        "rule": "#2F4248",
+        "boundary": "#6E8A91",
+        "reasoning": "#A1B3E0",
+        "exploration": "#6BC6C5",
+        "event": "#D7AE73"
+      },
+      "light": {
+        "bg": "#EDF2F1",
+        "surface": "#DFE7E5",
+        "text": "#10181C",
+        "muted": "#52666C",
+        "rule": "#CCD8D5",
+        "boundary": "#64797A",
+        "reasoning": "#4D618D",
+        "exploration": "#216667",
+        "event": "#7B5B2B"
+      }
+    },
+    {
+      "id": "parchment",
+      "name": "Ink & Parchment",
+      "recommended": false,
+      "character": "Warmer, quieter, closer to a philosophical journal.",
+      "judgment": "The strongest editorial register. Mauve and copper feel material; the computational character is less immediate.",
+      "dark": {
+        "bg": "#1A1715",
+        "surface": "#27221E",
+        "text": "#F2ECE0",
+        "muted": "#BDB2A8",
+        "rule": "#453A32",
+        "boundary": "#928173",
+        "reasoning": "#C0A5CE",
+        "exploration": "#9DBFC3",
+        "event": "#D7A77D"
+      },
+      "light": {
+        "bg": "#F2ECE0",
+        "surface": "#E6DED1",
+        "text": "#1A1715",
+        "muted": "#6B6058",
+        "rule": "#D3C8BC",
+        "boundary": "#807162",
+        "reasoning": "#775782",
+        "exploration": "#3E666D",
+        "event": "#865634"
+      }
+    }
+  ],
+  "states": {
+    "reasoning": {
+      "label": "Reasoning",
+      "symbol": "\u25cb",
+      "role": "reasoning",
+      "description": "Iris identifies the active reasoning operation.",
+      "a": "reasoning",
+      "b": "muted"
+    },
+    "exploration": {
+      "label": "Exploration",
+      "symbol": "\u2197",
+      "role": "exploration",
+      "description": "Cyan identifies a path being explored.",
+      "a": "exploration",
+      "b": "reasoning"
+    },
+    "conflict": {
+      "label": "Conflict",
+      "symbol": "\u224b",
+      "role": "event",
+      "description": "Amber identifies a conflict that requires inspection.",
+      "a": "event",
+      "b": "reasoning"
+    },
+    "insight": {
+      "label": "Candidate insight",
+      "symbol": "\u25c7",
+      "role": "event",
+      "description": "An amber event is a candidate to examine. A stable region can settle to chalk.",
+      "a": "event",
+      "b": "text"
+    },
+    "concentration": {
+      "label": "Concentration",
+      "symbol": "\u25ce",
+      "role": "text",
+      "description": "Concentration uses neutral coherence rather than an additional hue.",
+      "a": "text",
+      "b": "muted"
+    }
+  }
+}

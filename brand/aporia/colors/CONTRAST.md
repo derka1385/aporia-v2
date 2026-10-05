@@ -1,0 +1,80 @@
+# APORIA color comparison — calculated contrast
+
+All three palettes use the original Divergent Apertures logo. Full-opacity text pairs are checked at 4.5:1 and control boundaries at 3:1. Decorative fine rules and illustrative particle opacity are excluded from functional pair claims.
+
+| Palette | Theme | Foreground | Background | Hex pair | Ratio | Minimum |
+| --- | --- | --- | --- | --- | --- | --- |
+| Obsidian & Iris | dark | text | bg | #F4F1E9 / #121416 | 16.36:1 | 4.5:1 |
+| Obsidian & Iris | dark | text | surface | #F4F1E9 / #1B1F23 | 14.69:1 | 4.5:1 |
+| Obsidian & Iris | dark | muted | bg | #B4BBC2 / #121416 | 9.52:1 | 4.5:1 |
+| Obsidian & Iris | dark | muted | surface | #B4BBC2 / #1B1F23 | 8.55:1 | 4.5:1 |
+| Obsidian & Iris | dark | reasoning | bg | #B7A2E8 / #121416 | 8.22:1 | 4.5:1 |
+| Obsidian & Iris | dark | reasoning | surface | #B7A2E8 / #1B1F23 | 7.38:1 | 4.5:1 |
+| Obsidian & Iris | dark | exploration | bg | #79C5CF / #121416 | 9.41:1 | 4.5:1 |
+| Obsidian & Iris | dark | exploration | surface | #79C5CF / #1B1F23 | 8.45:1 | 4.5:1 |
+| Obsidian & Iris | dark | event | bg | #DDB16B / #121416 | 9.30:1 | 4.5:1 |
+| Obsidian & Iris | dark | event | surface | #DDB16B / #1B1F23 | 8.35:1 | 4.5:1 |
+| Obsidian & Iris | dark | boundary | bg | #747E88 / #121416 | 4.47:1 | 3:1 |
+| Obsidian & Iris | dark | boundary | surface | #747E88 / #1B1F23 | 4.01:1 | 3:1 |
+| Obsidian & Iris | light | text | bg | #121416 / #F4F1E9 | 16.36:1 | 4.5:1 |
+| Obsidian & Iris | light | text | surface | #121416 / #E9E5DB | 14.68:1 | 4.5:1 |
+| Obsidian & Iris | light | muted | bg | #596168 / #F4F1E9 | 5.58:1 | 4.5:1 |
+| Obsidian & Iris | light | muted | surface | #596168 / #E9E5DB | 5.01:1 | 4.5:1 |
+| Obsidian & Iris | light | reasoning | bg | #65509A / #F4F1E9 | 5.87:1 | 4.5:1 |
+| Obsidian & Iris | light | reasoning | surface | #65509A / #E9E5DB | 5.27:1 | 4.5:1 |
+| Obsidian & Iris | light | exploration | bg | #24636C / #F4F1E9 | 6.05:1 | 4.5:1 |
+| Obsidian & Iris | light | exploration | surface | #24636C / #E9E5DB | 5.43:1 | 4.5:1 |
+| Obsidian & Iris | light | event | bg | #805B22 / #F4F1E9 | 5.41:1 | 4.5:1 |
+| Obsidian & Iris | light | event | surface | #805B22 / #E9E5DB | 4.86:1 | 4.5:1 |
+| Obsidian & Iris | light | boundary | bg | #76736C / #F4F1E9 | 4.19:1 | 3:1 |
+| Obsidian & Iris | light | boundary | surface | #76736C / #E9E5DB | 3.76:1 | 3:1 |
+| Graphite & Mineral | dark | text | bg | #EDF2F1 / #10181C | 15.88:1 | 4.5:1 |
+| Graphite & Mineral | dark | text | surface | #EDF2F1 / #18242A | 14.02:1 | 4.5:1 |
+| Graphite & Mineral | dark | muted | bg | #A3B7BC / #10181C | 8.60:1 | 4.5:1 |
+| Graphite & Mineral | dark | muted | surface | #A3B7BC / #18242A | 7.59:1 | 4.5:1 |
+| Graphite & Mineral | dark | reasoning | bg | #A1B3E0 / #10181C | 8.59:1 | 4.5:1 |
+| Graphite & Mineral | dark | reasoning | surface | #A1B3E0 / #18242A | 7.58:1 | 4.5:1 |
+| Graphite & Mineral | dark | exploration | bg | #6BC6C5 / #10181C | 8.99:1 | 4.5:1 |
+| Graphite & Mineral | dark | exploration | surface | #6BC6C5 / #18242A | 7.93:1 | 4.5:1 |
+| Graphite & Mineral | dark | event | bg | #D7AE73 / #10181C | 8.71:1 | 4.5:1 |
+| Graphite & Mineral | dark | event | surface | #D7AE73 / #18242A | 7.69:1 | 4.5:1 |
+| Graphite & Mineral | dark | boundary | bg | #6E8A91 / #10181C | 4.88:1 | 3:1 |
+| Graphite & Mineral | dark | boundary | surface | #6E8A91 / #18242A | 4.31:1 | 3:1 |
+| Graphite & Mineral | light | text | bg | #10181C / #EDF2F1 | 15.88:1 | 4.5:1 |
+| Graphite & Mineral | light | text | surface | #10181C / #DFE7E5 | 14.28:1 | 4.5:1 |
+| Graphite & Mineral | light | muted | bg | #52666C / #EDF2F1 | 5.34:1 | 4.5:1 |
+| Graphite & Mineral | light | muted | surface | #52666C / #DFE7E5 | 4.80:1 | 4.5:1 |
+| Graphite & Mineral | light | reasoning | bg | #4D618D / #EDF2F1 | 5.45:1 | 4.5:1 |
+| Graphite & Mineral | light | reasoning | surface | #4D618D / #DFE7E5 | 4.90:1 | 4.5:1 |
+| Graphite & Mineral | light | exploration | bg | #216667 / #EDF2F1 | 5.88:1 | 4.5:1 |
+| Graphite & Mineral | light | exploration | surface | #216667 / #DFE7E5 | 5.28:1 | 4.5:1 |
+| Graphite & Mineral | light | event | bg | #7B5B2B / #EDF2F1 | 5.51:1 | 4.5:1 |
+| Graphite & Mineral | light | event | surface | #7B5B2B / #DFE7E5 | 4.95:1 | 4.5:1 |
+| Graphite & Mineral | light | boundary | bg | #64797A / #EDF2F1 | 4.07:1 | 3:1 |
+| Graphite & Mineral | light | boundary | surface | #64797A / #DFE7E5 | 3.66:1 | 3:1 |
+| Ink & Parchment | dark | text | bg | #F2ECE0 / #1A1715 | 15.16:1 | 4.5:1 |
+| Ink & Parchment | dark | text | surface | #F2ECE0 / #27221E | 13.38:1 | 4.5:1 |
+| Ink & Parchment | dark | muted | bg | #BDB2A8 / #1A1715 | 8.58:1 | 4.5:1 |
+| Ink & Parchment | dark | muted | surface | #BDB2A8 / #27221E | 7.57:1 | 4.5:1 |
+| Ink & Parchment | dark | reasoning | bg | #C0A5CE / #1A1715 | 8.08:1 | 4.5:1 |
+| Ink & Parchment | dark | reasoning | surface | #C0A5CE / #27221E | 7.13:1 | 4.5:1 |
+| Ink & Parchment | dark | exploration | bg | #9DBFC3 / #1A1715 | 9.07:1 | 4.5:1 |
+| Ink & Parchment | dark | exploration | surface | #9DBFC3 / #27221E | 8.00:1 | 4.5:1 |
+| Ink & Parchment | dark | event | bg | #D7A77D / #1A1715 | 8.25:1 | 4.5:1 |
+| Ink & Parchment | dark | event | surface | #D7A77D / #27221E | 7.28:1 | 4.5:1 |
+| Ink & Parchment | dark | boundary | bg | #928173 / #1A1715 | 4.76:1 | 3:1 |
+| Ink & Parchment | dark | boundary | surface | #928173 / #27221E | 4.21:1 | 3:1 |
+| Ink & Parchment | light | text | bg | #1A1715 / #F2ECE0 | 15.16:1 | 4.5:1 |
+| Ink & Parchment | light | text | surface | #1A1715 / #E6DED1 | 13.36:1 | 4.5:1 |
+| Ink & Parchment | light | muted | bg | #6B6058 / #F2ECE0 | 5.19:1 | 4.5:1 |
+| Ink & Parchment | light | muted | surface | #6B6058 / #E6DED1 | 4.57:1 | 4.5:1 |
+| Ink & Parchment | light | reasoning | bg | #775782 / #F2ECE0 | 5.14:1 | 4.5:1 |
+| Ink & Parchment | light | reasoning | surface | #775782 / #E6DED1 | 4.53:1 | 4.5:1 |
+| Ink & Parchment | light | exploration | bg | #3E666D / #F2ECE0 | 5.37:1 | 4.5:1 |
+| Ink & Parchment | light | exploration | surface | #3E666D / #E6DED1 | 4.73:1 | 4.5:1 |
+| Ink & Parchment | light | event | bg | #865634 / #F2ECE0 | 5.26:1 | 4.5:1 |
+| Ink & Parchment | light | event | surface | #865634 / #E6DED1 | 4.64:1 | 4.5:1 |
+| Ink & Parchment | light | boundary | bg | #807162 / #F2ECE0 | 4.01:1 | 3:1 |
+| Ink & Parchment | light | boundary | surface | #807162 / #E6DED1 | 3.53:1 | 3:1 |
+
+Sources: [W3C text contrast](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) and [W3C non-text contrast](https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html). These pair checks do not constitute a complete product accessibility audit.

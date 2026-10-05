@@ -1,0 +1,36 @@
+{
+  "name": "aproria-cognitive-laboratory",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node scripts/start.mjs",
+    "dev": "node scripts/start.mjs",
+    "build": "vite build",
+    "test": "node --test tests/*.test.mjs",
+    "experiment": "node scripts/experiment.mjs",
+    "model-check": "node scripts/model-check.mjs",
+    "study": "node scripts/study.mjs",
+    "research:setup": "node scripts/research-setup.mjs",
+    "research:test": "node scripts/research-test.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.2.8",
+    "@fontsource-variable/newsreader": "^5.2.8",
+    "@react-three/fiber": "^9.3.0",
+    "express": "^5.1.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "three": "^0.180.0",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.3",
+    "vite": "^7.1.7",
+    "@playwright/test": "^1.55.1"
+  }
+}
